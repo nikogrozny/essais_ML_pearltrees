@@ -1,0 +1,130 @@
+;page;depth;xmin;ymin;xmax;ymax;type;text;id
+0;0;0;0;0;653.622;852.047;LTPage;"
+    ";0
+1;0;1;102.872;588.932;329.304;649.941;LTTextBoxHorizontal;" Pourquoi les mers et les océans 
+sont-ils devenus des espaces majeurs 
+de la mondialisation et sources 
+de nombreux enjeux entre États ? ";0-13
+2;0;1;422.541;291.016;538.495;319.016;LTTextBoxHorizontal;" Parc éolien au large des côtes 
+de Blackpool (Royaume-Uni), 
+septembre 2018. ";0-12
+3;0;1;81.339;107.105;167.974;143.525;LTTextBoxHorizontal;"P o u r e n t r e r 
+dans le chapitre ";0-11
+4;0;1;77.362;47.52;88.482;57.52;LTTextLineHorizontal;;0-10
+5;0;2;77.362;47.52;88.482;57.52;LTTextBoxHorizontal;32 ;0-10-0
+6;0;1;76.172;656.407;364.808;772.733;LTTextLineHorizontal;;0-9
+7;0;2;76.172;656.407;364.808;772.733;LTTextBoxHorizontal;1 Mers et océans : ;0-9-0
+8;0;1;119.314;13.258;471.401;126.644;LTCurve;"
+      ";0-8
+9;0;2;155.457;57.53;297.819;103.714;LTTextBoxHorizontal;"« Le plus grand champ éolien 
+du monde inauguré 
+en mer d’Irlande », 
+BFMTV, 6 septembre 2018. ";0-8-0
+10;0;1;552.568;15.0;639.835;792.81;LTImage;"
+      ";0-7
+11;0;2;552.568;15.0;639.835;792.81;LTFigure;;0-7-0
+12;0;1;15.0;668.386;588.449;837.047;LTCurve;"
+      ";0-6
+13;0;2;168.071;682.023;492.251;712.023;LTTextLineHorizontal;;0-6-3
+14;0;3;168.071;682.023;492.251;712.023;LTTextBoxHorizontal;au cœur de la mondialisation ;0-6-3-0
+15;0;2;54.685;682.703;78.685;765.983;LTTextLineVertical;;0-6-2
+16;0;3;54.685;682.703;78.685;765.983;LTTextBoxVertical;CHAPITRE ;0-6-2-0
+17;0;2;58.188;786.705;92.975;800.592;LTTextLineHorizontal;;0-6-1
+18;0;3;58.188;786.705;92.975;800.592;LTTextBoxHorizontal;THÈME ;0-6-1-0
+19;0;2;99.974;786.927;106.14;800.814;LTTextLineHorizontal;;0-6-0
+20;0;3;99.974;786.927;106.14;800.814;LTTextBoxHorizontal;1 ;0-6-0-0
+21;0;1;60.176;471.716;82.853;559.59;LTCurve;"
+      ";0-5
+22;0;2;66.139;478.754;80.139;551.68;LTTextLineVertical;;0-5-0
+23;0;3;66.139;478.754;80.139;551.68;LTTextBoxVertical;SOMMAIRE ;0-5-0-0
+24;0;1;83.14;163.93;381.837;559.341;LTCurve;"
+      ";0-4
+25;0;2;83.14;163.93;381.837;559.341;LTCurve;"
+        ";0-4-0
+26;0;3;361.149;512.397;371.157;521.397;LTTextLineHorizontal;;0-4-0-19
+27;0;4;361.149;512.397;371.157;521.397;LTTextBoxHorizontal;34 ;0-4-0-19-0
+28;0;3;361.149;489.562;371.157;498.562;LTTextLineHorizontal;;0-4-0-18
+29;0;4;361.149;489.562;371.157;498.562;LTTextBoxHorizontal;36 ;0-4-0-18-0
+30;0;3;361.149;466.728;371.157;475.728;LTTextLineHorizontal;;0-4-0-17
+31;0;4;361.149;466.728;371.157;475.728;LTTextBoxHorizontal;40 ;0-4-0-17-0
+32;0;3;361.149;443.893;371.157;452.893;LTTextLineHorizontal;;0-4-0-16
+33;0;4;361.149;443.893;371.157;452.893;LTTextBoxHorizontal;44 ;0-4-0-16-0
+34;0;3;361.155;416.888;371.163;425.888;LTTextLineHorizontal;;0-4-0-15
+35;0;4;361.155;416.888;371.163;425.888;LTTextBoxHorizontal;46 ;0-4-0-15-0
+36;0;3;361.149;338.538;371.157;386.041;LTTextBoxHorizontal;"50 
+52 
+54 
+55 ";0-4-0-14
+37;0;3;361.329;298.695;371.157;307.695;LTTextLineHorizontal;;0-4-0-13
+38;0;4;361.329;298.695;371.157;307.695;LTTextBoxHorizontal;56 ;0-4-0-13-0
+39;0;3;361.149;275.861;371.157;284.861;LTTextLineHorizontal;;0-4-0-12
+40;0;4;361.149;275.861;371.157;284.861;LTTextBoxHorizontal;58 ;0-4-0-12-0
+41;0;3;105.843;416.888;233.634;427.976;LTTextLineHorizontal;;0-4-0-11
+42;0;4;105.843;416.888;233.634;427.976;LTTextBoxHorizontal;CROQUIS DES ÉTUDES DE CAS ;0-4-0-11-0
+43;0;3;102.926;391.968;146.144;400.968;LTTextLineHorizontal;;0-4-0-10
+44;0;4;102.926;391.968;146.144;400.968;LTTextBoxHorizontal;EXEMPLES ;0-4-0-10-0
+45;0;3;118.158;338.538;335.22;386.041;LTTextBoxHorizontal;" Le sable marin : une ressource convoitée 
+ Les nouvelles routes maritimes de l’océan Arctique 
+ Les câbles sous-marins : les routes de l’information 
+ Les ressources halieutiques marines dans le monde ";0-4-0-9
+46;0;3;104.515;313.54;139.057;322.621;LTTextLineHorizontal;;0-4-0-8
+47;0;4;104.515;313.54;139.057;322.621;LTTextBoxHorizontal;CARTES ;0-4-0-8-0
+48;0;3;117.978;275.861;349.467;307.695;LTTextBoxHorizontal;" Mers et océans : vecteurs essentiels de la mondialisation 
+ Mers et océans : appropriation, protection 
+et liberté de circulation ";0-4-0-7
+49;0;3;105.373;537.322;168.697;546.322;LTTextLineHorizontal;;0-4-0-6
+50;0;4;105.373;537.322;168.697;546.322;LTTextBoxHorizontal;ÉTUDES DE CAS ;0-4-0-6-0
+51;0;3;118.158;443.893;335.733;531.396;LTTextBoxHorizontal;" Le golfe Arabo-Persique : 
+un espace au cœur des enjeux contemporains 
+ La mer de Chine méridionale : 
+un espace maritime sous tension 
+ L’océan Indien : 
+rivalités régionales et coopérations internationales 
+ Le détroit de Malacca : 
+un point de passage majeur et stratégique ";0-4-0-5
+52;0;3;104.733;250.98;132.336;259.98;LTTextLineHorizontal;;0-4-0-4
+53;0;4;104.733;250.98;132.336;259.98;LTTextBoxHorizontal;COURS ;0-4-0-4-0
+54;0;3;118.158;223.183;371.157;245.018;LTTextBoxHorizontal;" Mers et océans : vecteurs essentiels de la mondialisation 60 
+62 
+ Mers et océans : appropriation, rivalités et protection ";0-4-0-3
+55;0;3;106.831;198.267;175.339;207.267;LTTextLineHorizontal;;0-4-0-2
+56;0;4;106.831;198.267;175.339;207.267;LTTextBoxHorizontal;GÉO AUTREMENT ;0-4-0-2-0
+57;0;3;118.169;183.341;289.727;192.341;LTTextLineHorizontal;;0-4-0-1
+58;0;4;118.169;183.341;289.727;192.341;LTTextBoxHorizontal; Les marins, acteurs de la mondialisation ;0-4-0-1-0
+59;0;3;361.151;183.341;371.159;192.341;LTTextLineHorizontal;;0-4-0-0
+60;0;4;361.151;183.341;371.159;192.341;LTTextBoxHorizontal;64 ;0-4-0-0-0
+61;0;1;317.728;59.448;525.135;173.961;LTImage;"
+      ";0-3
+62;0;2;317.728;59.448;525.135;173.961;LTFigure;;0-3-0
+63;0;1;324.535;68.664;840.567;132.654;LTFigure;;0-2
+64;0;1;402.712;355.276;571.432;485.836;LTRect;"
+      ";0-1
+65;0;2;409.016;361.635;565.063;479.613;LTRect;"
+        ";0-1-0
+66;0;3;419.788;463.349;493.906;474.349;LTTextLineHorizontal;;0-1-0-8
+67;0;4;419.788;463.349;493.906;474.349;LTTextBoxHorizontal;Zoom sur… ;0-1-0-8-0
+68;0;3;419.635;443.44;502.214;453.44;LTTextLineHorizontal;;0-1-0-7
+69;0;4;419.635;443.44;502.214;453.44;LTTextBoxHorizontal; L’éolien offshore ;0-1-0-7-0
+70;0;3;413.268;421.935;473.583;437.438;LTTextBoxHorizontal;"Capacité mondiale 
+installée (2018) ";0-1-0-6
+71;0;3;413.268;398.633;464.133;414.135;LTTextBoxHorizontal;"Principaux pays 
+producteurs ";0-1-0-5
+72;0;3;496.75;425.933;533.793;433.433;LTTextLineHorizontal;;0-1-0-4
+73;0;4;496.75;425.933;533.793;433.433;LTTextBoxHorizontal;23 gigawatts ;0-1-0-4-0
+74;0;3;496.75;394.628;557.958;418.133;LTTextBoxHorizontal;"Royaume-Uni (34 %) 
+Allemagne (27 %) 
+Chine (20 %) ";0-1-0-3
+75;0;3;413.268;375.33;474.715;390.833;LTTextBoxHorizontal;"Part de l’électricité 
+mondiale produite ";0-1-0-2
+76;0;3;496.75;379.328;513.655;386.828;LTTextLineHorizontal;;0-1-0-1
+77;0;4;496.75;379.328;513.655;386.828;LTTextBoxHorizontal;0,3 % ;0-1-0-1-0
+78;0;3;444.533;362.97;562.229;368.97;LTTextLineHorizontal;;0-1-0-0
+79;0;4;444.533;362.97;562.229;368.97;LTTextBoxHorizontal;Source : Global Wind Report, CWEC, 2019. ;0-1-0-0-0
+80;0;1;402.712;485.836;974.144;841.112;LTFigure;"
+      ";0-0
+81;0;2;419.662;605.39;533.465;643.194;LTCurve;"
+        ";0-0-0
+82;0;3;419.662;605.39;533.465;643.194;LTCurve;"
+          ";0-0-0-0
+83;0;4;423.6;608.894;531.716;627.593;LTTextBoxHorizontal;"TOUS LES TEXTES EN VERSION DYS 
+lyceen.nathan.fr/geoterm-2020 ";0-0-0-0-0

@@ -1,0 +1,158 @@
+;page;depth;xmin;ymin;xmax;ymax;type;text;id
+0;6;0;0;0;653.622;852.047;LTPage;"
+    ";6
+1;6;1;191.582;765.568;387.022;798.56;LTTextBoxHorizontal;"La mer de Chine méridionale : 
+un espace maritime sous tension ";6-10
+2;6;1;81.032;723.275;517.279;747.275;LTTextLineHorizontal;;6-9
+3;6;2;81.032;723.275;517.279;747.275;LTTextBoxHorizontal;B Les enjeux économiques en mer de Chine méridionale ;6-9-0
+4;6;1;547.045;683.057;590.987;709.66;LTTextBoxHorizontal;"Pa ro le 
+de 
+géog raphes ";6-8
+5;6;1;87.842;423.541;294.439;448.225;LTTextBoxHorizontal;"5 L’exploitation des ressources aquacoles 
+Aquaculture dans la baie d’Along (Vietnam), 2019. ";6-7
+6;6;1;265.571;50.705;385.804;65.705;LTTextBoxHorizontal;"172531_th1_ch1_07_mer_chine_ressources 
+180 x 110 mm ";6-6
+7;6;1;15.0;837.047;653.622;852.047;LTFigure;;6-5
+8;6;1;77.772;71.943;588.449;385.38;LTRect;"
+      ";6-4
+9;6;2;77.772;71.943;588.449;385.38;LTRect;"
+        ";6-4-0
+10;6;3;77.773;71.943;509.956;385.38;LTRect;"
+          ";6-4-0-1
+11;6;4;229.001;368.37;250.853;377.37;LTTextLineHorizontal;;6-4-0-1-27
+12;6;5;229.001;368.37;250.853;377.37;LTTextBoxHorizontal;CHINE ;6-4-0-1-27-0
+13;6;4;320.465;368.605;343.425;376.605;LTTextLineHorizontal;;6-4-0-1-26
+14;6;5;320.465;368.605;343.425;376.605;LTTextBoxHorizontal;Xiamen ;6-4-0-1-26-0
+15;6;4;393.07;372.963;413.373;380.963;LTTextLineHorizontal;;6-4-0-1-25
+16;6;5;393.07;372.963;413.373;380.963;LTTextBoxHorizontal;Taipei ;6-4-0-1-25-0
+17;6;4;82.337;339.039;121.514;348.039;LTTextLineHorizontal;;6-4-0-1-24
+18;6;5;82.337;339.039;121.514;348.039;LTTextBoxHorizontal;MYANMAR ;6-4-0-1-24-0
+19;6;4;242.585;338.861;277.425;358.605;LTTextBoxHorizontal;"Guangzhou 
+Macao ";6-4-0-1-23
+20;6;4;219.674;308.053;273.061;317.069;LTTextLineHorizontal;;6-4-0-1-22
+21;6;5;219.674;308.053;273.061;317.069;LTTextBoxHorizontal;Île de Hainan ;6-4-0-1-22-0
+22;6;4;295.569;357.269;324.761;365.269;LTTextLineHorizontal;;6-4-0-1-21
+23;6;5;295.569;357.269;324.761;365.269;LTTextBoxHorizontal;Shenzhen ;6-4-0-1-21-0
+24;6;4;369.869;356.229;399.047;365.229;LTTextLineHorizontal;;6-4-0-1-20
+25;6;5;369.869;356.229;399.047;365.229;LTTextBoxHorizontal;TAÏWAN ;6-4-0-1-20-0
+26;6;4;331.67;345.879;362.13;360.88;LTTextBoxHorizontal;"Détroit 
+de Taïwan ";6-4-0-1-19
+27;6;4;298.049;332.525;331.833;340.525;LTTextLineHorizontal;;6-4-0-1-18
+28;6;5;298.049;332.525;331.833;340.525;LTTextBoxHorizontal;Hong Kong ;6-4-0-1-18-0
+29;6;4;305.414;260.503;357.06;278.535;LTTextBoxHorizontal;"Atoll de 
+Scarborough ";6-4-0-1-17
+30;6;4;249.766;224.626;292.424;264.738;LTTextBoxHorizontal;"Mer 
+de 
+Chine 
+méridionale ";6-4-0-1-16
+31;6;4;381.56;203.292;423.581;212.292;LTTextLineHorizontal;;6-4-0-1-15
+32;6;5;381.56;203.292;423.581;212.292;LTTextBoxHorizontal;PHILIPPINES ;6-4-0-1-15-0
+33;6;4;369.336;177.362;395.518;196.066;LTTextBoxHorizontal;"Mer 
+de Sulu ";6-4-0-1-14
+34;6;4;87.143;91.897;123.719;107.897;LTTextBoxHorizontal;"Détroit 
+de Malacca ";6-4-0-1-13
+35;6;4;157.082;93.06;199.274;102.06;LTTextLineHorizontal;;6-4-0-1-12
+36;6;5;157.082;93.06;199.274;102.06;LTTextBoxHorizontal;SINGAPOUR ;6-4-0-1-12-0
+37;6;4;103.213;75.474;143.749;84.474;LTTextLineHorizontal;;6-4-0-1-11
+38;6;5;103.213;75.474;143.749;84.474;LTTextBoxHorizontal;INDONÉSIE ;6-4-0-1-11-0
+39;6;4;181.183;74.402;218.347;90.402;LTTextBoxHorizontal;"Mer 
+de Natuna ";6-4-0-1-10
+40;6;4;337.598;152.443;370.918;168.443;LTTextBoxHorizontal;"Détroit 
+de Balabac ";6-4-0-1-9
+41;6;4;379.087;110.69;417.102;129.394;LTTextBoxHorizontal;"Mer 
+de Célèbes ";6-4-0-1-8
+42;6;4;375.22;93.435;379.437;100.475;LTTextLineHorizontal;;6-4-0-1-7
+43;6;5;375.22;93.435;379.437;100.475;LTTextBoxHorizontal;N ;6-4-0-1-7-0
+44;6;4;446.307;157.225;470.127;166.326;LTTextLineHorizontal;;6-4-0-1-6
+45;6;5;446.307;157.225;470.127;166.326;LTTextBoxHorizontal;Davao ;6-4-0-1-6-0
+46;6;4;291.214;75.474;331.75;84.474;LTTextLineHorizontal;;6-4-0-1-5
+47;6;5;291.214;75.474;331.75;84.474;LTTextBoxHorizontal;INDONÉSIE ;6-4-0-1-5-0
+48;6;4;396.914;81.731;418.568;88.731;LTTextLineHorizontal;;6-4-0-1-4
+49;6;5;396.914;81.731;418.568;88.731;LTTextBoxHorizontal;500 km ;6-4-0-1-4-0
+50;6;4;113.044;93.579;194.451;251.441;LTCurve;"
+            ";6-4-0-1-3
+51;6;5;133.07;197.802;186.542;205.802;LTTextLineHorizontal;;6-4-0-1-3-3
+52;6;6;133.07;197.802;186.542;205.802;LTTextBoxHorizontal;Hô Chi Minh-Ville ;6-4-0-1-3-3-0
+53;6;5;118.398;175.377;149.074;191.379;LTTextBoxHorizontal;"Golfe de 
+Thaïlande ";6-4-0-1-3-2
+54;6;5;124.704;119.529;166.776;127.529;LTTextLineHorizontal;;6-4-0-1-3-1
+55;6;6;124.704;119.529;166.776;127.529;LTTextBoxHorizontal;Kuala Lumpur ;6-4-0-1-3-1-0
+56;6;5;137.444;102.177;170.96;111.177;LTTextLineHorizontal;;6-4-0-1-3-0
+57;6;6;137.444;102.177;170.96;111.177;LTTextBoxHorizontal;MALAISIE ;6-4-0-1-3-0-0
+58;6;4;369.046;310.057;443.713;339.39;LTCurve;"
+            ";6-4-0-1-2
+59;6;5;379.07;319.963;404.838;335.963;LTTextBoxHorizontal;"Détroit 
+de Bashi ";6-4-0-1-2-0
+60;6;4;395.345;137.166;456.774;190.068;LTCurve;;6-4-0-1-1
+61;6;4;147.993;182.644;232.213;363.124;LTCurve;"
+            ";6-4-0-1-0
+62;6;5;169.409;336.149;187.193;344.149;LTTextLineHorizontal;;6-4-0-1-0-3
+63;6;6;169.409;336.149;187.193;344.149;LTTextBoxHorizontal;Hanoï ;6-4-0-1-0-3-0
+64;6;5;191.993;307.88;220.815;320.879;LTTextBoxHorizontal;"Golfe du 
+Tonkin ";6-4-0-1-0-2
+65;6;5;152.96;230.274;194.981;239.274;LTTextLineHorizontal;;6-4-0-1-0-1
+66;6;6;152.96;230.274;194.981;239.274;LTTextBoxHorizontal;CAMBODGE ;6-4-0-1-0-1-0
+67;6;5;194.027;212.661;226.877;221.661;LTTextLineHorizontal;;6-4-0-1-0-0
+68;6;6;194.027;212.661;226.877;221.661;LTTextBoxHorizontal;VIETNAM ;6-4-0-1-0-0-0
+69;6;3;438.045;71.943;588.449;385.38;LTRect;"
+          ";6-4-0-0
+70;6;4;448.545;357.734;566.103;377.734;LTTextBoxHorizontal;"1. Des puissances économiques 
+inégales (PIB, 2019) ";6-4-0-0-10
+71;6;4;476.966;342.286;580.974;350.286;LTTextLineHorizontal;;6-4-0-0-9
+72;6;5;476.966;342.286;580.974;350.286;LTTextBoxHorizontal;Plus de 13 000 milliards de dollars ;6-4-0-0-9-0
+73;6;4;476.966;326.789;584.502;334.789;LTTextLineHorizontal;;6-4-0-0-8
+74;6;5;476.966;326.789;584.502;334.789;LTTextBoxHorizontal;De 200 à 1 500 milliards de dollars ;6-4-0-0-8-0
+75;6;4;476.966;312.286;577.606;320.286;LTTextLineHorizontal;;6-4-0-0-7
+76;6;5;476.966;312.286;577.606;320.286;LTTextBoxHorizontal;Moins de 200 milliards de dollars ;6-4-0-0-7-0
+77;6;4;476.966;259.79;559.302;276.286;LTTextBoxHorizontal;"Gisements d’hydrocarbures 
+(pétrole et gaz) ";6-4-0-0-6
+78;6;4;476.966;242.869;552.934;250.869;LTTextLineHorizontal;;6-4-0-0-5
+79;6;5;476.966;242.869;552.934;250.869;LTTextBoxHorizontal;Ressources halieutiques ;6-4-0-0-5-0
+80;6;4;476.966;216.869;556.03;233.365;LTTextBoxHorizontal;"Destinations de croisières 
+touristiques ";6-4-0-0-4
+81;6;4;476.966;179.531;553.518;187.531;LTTextLineHorizontal;;6-4-0-0-3
+82;6;5;476.966;179.531;553.518;187.531;LTTextBoxHorizontal;Principale route maritime ;6-4-0-0-3-0
+83;6;4;476.966;145.031;545.374;153.031;LTTextLineHorizontal;;6-4-0-0-2
+84;6;5;476.966;145.031;545.374;153.031;LTTextBoxHorizontal;Principales métropoles ;6-4-0-0-2-0
+85;6;4;476.966;127.031;541.806;135.031;LTTextLineHorizontal;;6-4-0-0-1
+86;6;5;476.966;127.031;541.806;135.031;LTTextBoxHorizontal;Détroits stratégiques ;6-4-0-0-1-0
+87;6;4;476.966;108.527;527.758;116.527;LTTextLineHorizontal;;6-4-0-0-0
+88;6;5;476.966;108.527;527.758;116.527;LTTextBoxHorizontal;Principaux ports ;6-4-0-0-0-0
+89;6;1;13.962;455.581;313.67;710.947;LTImage;"
+      ";6-3
+90;6;2;13.962;455.581;313.67;710.947;LTFigure;;6-3-0
+91;6;1;336.315;425.834;587.449;709.072;LTCurve;"
+      ";6-2
+92;6;2;336.315;425.834;587.449;709.072;LTCurve;"
+        ";6-2-0
+93;6;3;348.305;686.717;535.41;700.717;LTTextLineHorizontal;;6-2-0-2
+94;6;4;348.305;686.717;535.41;700.717;LTTextBoxHorizontal;6 Les hydrocarbures en mer de Chine ;6-2-0-2-0
+95;6;3;345.173;467.614;582.29;681.614;LTTextBoxHorizontal;"Pour les pays riverains de la mer de Chine, les énergies 
+fossiles sont au cœur des économies et des politiques de déve- 
+loppement et de modernisation […]. Le contrôle des espaces 
+maritimes pour l’exploitation des hydrocarbures pourrait 
+être fructueux, à l’image de ce qu’il est déjà dans le sud de 
+la mer où la Malaisie, le Brunei et le Vietnam exploitent de 
+nombreux gisements offshore […]. Actuellement, la plupart 
+des gisements découverts se situent essentiellement dans les 
+zones économiques exclusives (ZEE) non contestées, déjà 
+exploitées par les pays riverains. [On] estime que les réserves 
+prouvées et probables s’élèvent à 11 milliards de barils pour 
+le pétrole et à 5 400 milliards de m³ pour le gaz naturel […]. 
+Dans la plupart des pays riverains, les compagnies nationales 
+exploitent les hydrocarbures à proximité des côtes. Au-delà 
+des conflits géopolitiques, les forages en haute mer posent de 
+nombreux défis hydrographiques (courants sous-marins), 
+climatiques (tempêtes) et techniques qui obligent les compa- 
+gnies nationales à s’associer à des multinationales étrangères. ";6-2-0-1
+96;6;3;358.309;430.99;581.97;460.485;LTTextBoxHorizontal;"E. Mottet, F. Lasserre, B. Courmont, Géopolitique 
+de la mer de Chine méridionale : eaux troubles en Asie du Sud-Est, 
+Presses de l’Université du Québec, 2017. ";6-2-0-0
+97;6;1;533.071;388.99;588.449;407.301;LTCurve;"
+      ";6-1
+98;6;2;543.877;391.551;582.373;406.551;LTTextBoxHorizontal;"Carte 
+interactive ";6-1-0
+99;6;1;521.293;757.021;588.449;782.273;LTRect;"
+      ";6-0
+100;6;2;525.545;759.063;585.132;774.559;LTTextBoxHorizontal;"Les eaux convoitées de mer 
+de Chine méridionale. ";6-0-0

@@ -1,0 +1,270 @@
+;page;depth;xmin;ymin;xmax;ymax;type;text;id
+0;16;0;0;0;653.622;852.047;LTPage;"
+    ";16
+1;16;1;77.717;715.996;216.765;741.996;LTTextLineHorizontal;;16-90
+2;16;2;77.717;715.996;216.765;741.996;LTTextBoxHorizontal;L’océan Indien ;16-90-0
+3;16;1;15.0;837.047;653.622;852.047;LTFigure;"
+      ";16-89
+4;16;2;15.0;837.047;653.622;852.047;LTFigure;;16-89-0
+5;16;1;302.135;89.61;588.199;553.992;LTRect;"
+      ";16-88
+6;16;2;302.135;89.61;588.199;553.992;LTRect;"
+        ";16-88-0
+7;16;3;302.135;104.314;588.198;553.992;LTRect;"
+          ";16-88-0-1
+8;16;4;524.229;497.483;545.577;505.483;LTTextLineHorizontal;;16-88-0-1-19
+9;16;5;524.229;497.483;545.577;505.483;LTTextBoxHorizontal;CHINE ;16-88-0-1-19-0
+10;16;4;507.393;469.206;538.093;476.206;LTTextLineHorizontal;;16-88-0-1-18
+11;16;5;507.393;469.206;538.093;476.206;LTTextBoxHorizontal;MYANMAR ;16-88-0-1-18-0
+12;16;4;321.584;339.198;368.355;346.221;LTTextLineHorizontal;;16-88-0-1-17
+13;16;5;321.584;339.198;368.355;346.221;LTTextBoxHorizontal;MOZAMBIQUE ;16-88-0-1-17-0
+14;16;4;457.594;332.72;489.373;352.718;LTTextBoxHorizontal;"OCÉAN 
+INDIEN ";16-88-0-1-16
+15;16;4;537.243;387.718;579.088;394.718;LTTextLineHorizontal;;16-88-0-1-15
+16;16;5;537.243;387.718;579.088;394.718;LTTextBoxHorizontal;I N D O N É S I E ;16-88-0-1-15-0
+17;16;4;308.393;311.489;337.727;325.534;LTTextBoxHorizontal;"AFRIQUE 
+DU SUD ";16-88-0-1-14
+18;16;4;327.453;297.872;347.657;304.872;LTTextLineHorizontal;;16-88-0-1-13
+19;16;5;327.453;297.872;347.657;304.872;LTTextBoxHorizontal;Durban ;16-88-0-1-13-0
+20;16;4;548.171;317.382;582.67;324.382;LTTextLineHorizontal;;16-88-0-1-12
+21;16;5;548.171;317.382;582.67;324.382;LTTextBoxHorizontal;AUSTRALIE ;16-88-0-1-12-0
+22;16;4;503.688;304.462;507.905;311.503;LTTextLineHorizontal;;16-88-0-1-11
+23;16;5;503.688;304.462;507.905;311.503;LTTextBoxHorizontal;N ;16-88-0-1-11-0
+24;16;4;477.662;293.097;481.502;301.097;LTTextLineHorizontal;;16-88-0-1-10
+25;16;5;477.662;293.097;481.502;301.097;LTTextBoxHorizontal;0 ;16-88-0-1-10-0
+26;16;4;517.294;293.097;545.822;301.097;LTTextLineHorizontal;;16-88-0-1-9
+27;16;5;517.294;293.097;545.822;301.097;LTTextBoxHorizontal;1 000 km ;16-88-0-1-9-0
+28;16;4;310.812;264.99;499.335;273.99;LTTextLineHorizontal;;16-88-0-1-8
+29;16;5;310.812;264.99;499.335;273.99;LTTextBoxHorizontal;1. Des pays riverains entre inégalités et coopération ;16-88-0-1-8-0
+30;16;4;336.732;250.622;472.057;258.622;LTTextLineHorizontal;;16-88-0-1-7
+31;16;5;336.732;250.622;472.057;258.622;LTTextBoxHorizontal;PIB supérieur à 1 000 milliards de dollars ;16-88-0-1-7-0
+32;16;4;336.732;235.926;479.516;243.926;LTTextLineHorizontal;;16-88-0-1-6
+33;16;5;336.732;235.926;479.516;243.926;LTTextBoxHorizontal;PIB entre 250 et 1 000 milliards de dollars ;16-88-0-1-6-0
+34;16;4;336.732;205.539;452.501;213.539;LTTextLineHorizontal;;16-88-0-1-5
+35;16;5;336.732;205.539;452.501;213.539;LTTextBoxHorizontal;Limite des pays membres de l’IORA ;16-88-0-1-5-0
+36;16;4;336.732;159.206;436.525;167.206;LTTextLineHorizontal;;16-88-0-1-4
+37;16;5;336.732;159.206;436.525;167.206;LTTextBoxHorizontal;Points de passage stratégiques ;16-88-0-1-4-0
+38;16;4;479.234;159.206;566.443;167.206;LTTextLineHorizontal;;16-88-0-1-3
+39;16;5;479.234;159.206;566.443;167.206;LTTextBoxHorizontal;Gisements d’hydrocarbures ;16-88-0-1-3-0
+40;16;4;479.232;115.872;557.891;123.872;LTTextLineHorizontal;;16-88-0-1-2
+41;16;5;479.232;115.872;557.891;123.872;LTTextBoxHorizontal;Facilités navales indiennes ;16-88-0-1-2-0
+42;16;4;326.844;299.416;445.06;479.799;LTCurve;;16-88-0-1-1
+43;16;4;379.529;407.3;474.336;504.057;LTCurve;"
+            ";16-88-0-1-0
+44;16;5;418.248;491.793;439.719;498.793;LTTextLineHorizontal;;16-88-0-1-0-4
+45;16;6;418.248;491.793;439.719;498.793;LTTextBoxHorizontal;Gwadar ;16-88-0-1-0-4-0
+46;16;5;410.38;474.447;434.364;481.447;LTTextLineHorizontal;;16-88-0-1-0-3
+47;16;6;410.38;474.447;434.364;481.447;LTTextBoxHorizontal;Mascate ;16-88-0-1-0-3-0
+48;16;5;384.34;465.677;402.512;480.704;LTTextBoxHorizontal;"ÉAU 
+OMAN ";16-88-0-1-0-2
+49;16;5;452.646;475.523;469.076;483.523;LTTextLineHorizontal;;16-88-0-1-0-1
+50;16;6;452.646;475.523;469.076;483.523;LTTextBoxHorizontal;INDE ;16-88-0-1-0-1-0
+51;16;5;447.622;461.736;471.688;468.736;LTTextLineHorizontal;;16-88-0-1-0-0
+52;16;6;447.622;461.736;471.688;468.736;LTTextBoxHorizontal;Mumbai ;16-88-0-1-0-0-0
+53;16;3;302.135;89.61;588.198;282.264;LTRect;"
+          ";16-88-0-0
+54;16;4;452.562;102.079;473.91;110.079;LTTextLineHorizontal;;16-88-0-0-1
+55;16;5;452.562;102.079;473.91;110.079;LTTextBoxHorizontal;CHINE ;16-88-0-0-1-0
+56;16;4;479.232;93.872;557.39;109.872;LTTextBoxHorizontal;"La Chine : 
+puissance « régionale » ? ";16-88-0-0-0
+57;16;1;326.808;479.941;772.073;779.319;LTFigure;;16-87
+58;16;1;439.108;456.637;1004.533;797.24;LTFigure;;16-86
+59;16;1;326.525;480.119;771.973;779.214;LTFigure;"
+      ";16-85
+60;16;2;326.525;480.119;771.973;779.214;LTFigure;;16-85-0
+61;16;1;438.785;456.642;1004.18;797.019;LTFigure;"
+      ";16-84
+62;16;2;438.785;456.642;1004.18;797.019;LTFigure;;16-84-0
+63;16;1;290.813;485.601;881.554;772.971;LTFigure;"
+      ";16-83
+64;16;2;295.662;569.946;594.702;684.186;LTRect;"
+        ";16-83-0
+65;16;3;301.885;576.26;588.448;677.962;LTCurve;"
+          ";16-83-0-0
+66;16;4;310.098;635.933;578.604;668.405;LTTextBoxHorizontal;"Consigne : En vous aidant du texte ci-contre et en vous appuyant 
+sur vos connaissances, complétez la légende et le croquis 
+de synthèse. ";16-83-0-0-2
+67;16;4;310.101;593.427;548.492;624.677;LTTextBoxHorizontal;"Aide pour répondre à la consigne : 
+• Relevez les informations à cartographier dans les trois paragraphes. 
+• Complétez les titres des parties 2 et 3 de la légende en identifiant l’idée ";16-83-0-0-1
+68;16;4;315.77;582.428;473.105;590.928;LTTextLineHorizontal;;16-83-0-0-0
+69;16;5;315.77;582.428;473.105;590.928;LTTextBoxHorizontal;principale de chacun des paragraphes concernés. ;16-83-0-0-0-0
+70;16;1;377.464;505.466;852.518;910.372;LTFigure;;16-82
+71;16;1;330.842;506.688;780.045;946.313;LTFigure;;16-81
+72;16;1;328.551;443.336;775.182;737.307;LTFigure;;16-80
+73;16;1;434.242;372.386;1031.085;732.258;LTFigure;;16-79
+74;16;1;508.647;391.242;1097.73;761.84;LTFigure;;16-78
+75;16;1;-840.692;0.829;909.771;175.164;LTCurve;"
+      ";16-77
+76;16;2;77.362;47.52;88.482;57.52;LTTextLineHorizontal;;16-77-2
+77;16;3;77.362;47.52;88.482;57.52;LTTextBoxHorizontal;48 ;16-77-2-0
+78;16;2;380.621;61.448;511.485;78.448;LTTextBoxHorizontal;"172531_th1_ch1_12_croquis_ocean_indien 
+101 x 163 mm ";16-77-1
+79;16;2;515.896;71.693;580.753;90.237;LTCurve;"
+        ";16-77-0
+80;16;3;526.702;74.488;577.422;89.488;LTTextBoxHorizontal;"Fond de carte 
+différencié ";16-77-0-0
+81;16;1;326.355;375.632;682.251;696.363;LTFigure;;16-76
+82;16;1;355.945;444.241;741.632;845.611;LTFigure;;16-75
+83;16;1;359.291;447.98;723.578;889.284;LTFigure;;16-74
+84;16;1;499.316;496.714;1021.735;939.658;LTFigure;;16-73
+85;16;1;362.039;464.483;754.138;911.784;LTFigure;"
+      ";16-72
+86;16;2;362.094;464.577;753.682;911.654;LTFigure;"
+        ";16-72-0
+87;16;3;362.094;464.577;753.682;911.654;LTFigure;;16-72-0-0
+88;16;1;362.218;369.116;744.635;694.258;LTFigure;;16-71
+89;16;1;463.945;436.586;934.361;861.589;LTFigure;;16-70
+90;16;1;390.059;486.83;799.271;946.97;LTFigure;;16-69
+91;16;1;324.28;406.5;678.931;776.799;LTFigure;;16-68
+92;16;1;336.459;422.339;695.058;814.873;LTFigure;;16-67
+93;16;1;443.175;432.592;892.977;835.306;LTFigure;;16-66
+94;16;1;326.86;375.782;682.3;696.34;LTFigure;"
+      ";16-65
+95;16;2;326.86;375.782;682.3;696.34;LTFigure;;16-65-0
+96;16;1;355.557;444.398;741.53;845.633;LTFigure;"
+      ";16-64
+97;16;2;355.557;444.398;741.53;845.633;LTFigure;;16-64-0
+98;16;1;358.944;448.105;723.089;889.223;LTFigure;"
+      ";16-63
+99;16;2;358.944;448.105;723.089;889.223;LTFigure;;16-63-0
+100;16;1;499.796;496.795;1022.124;939.663;LTFigure;"
+      ";16-62
+101;16;2;499.796;496.795;1022.124;939.663;LTFigure;;16-62-0
+102;16;1;463.573;436.745;933.902;861.643;LTFigure;"
+      ";16-61
+103;16;2;463.573;436.745;933.902;861.643;LTFigure;;16-61-0
+104;16;1;390.658;486.982;800.041;947.019;LTFigure;"
+      ";16-60
+105;16;2;390.658;486.982;800.041;947.019;LTFigure;;16-60-0
+106;16;1;324.288;406.358;678.026;776.42;LTFigure;"
+      ";16-59
+107;16;2;324.288;406.358;678.026;776.42;LTFigure;;16-59-0
+108;16;1;336.445;422.557;695.083;814.891;LTFigure;"
+      ";16-58
+109;16;2;336.445;422.557;695.083;814.891;LTFigure;;16-58-0
+110;16;1;442.869;432.816;892.994;835.349;LTFigure;"
+      ";16-57
+111;16;2;442.869;432.816;892.994;835.349;LTFigure;;16-57-0
+112;16;1;386.681;397.367;788.931;781.389;LTFigure;"
+      ";16-56
+113;16;2;386.681;397.367;788.931;781.389;LTFigure;;16-56-0
+114;16;1;357.798;371.774;730.729;734.962;LTFigure;"
+      ";16-55
+115;16;2;357.798;371.774;730.729;734.962;LTFigure;;16-55-0
+116;16;1;361.891;369.221;744.602;694.227;LTFigure;"
+      ";16-54
+117;16;2;361.891;369.221;744.602;694.227;LTFigure;;16-54-0
+118;16;1;287.671;538.965;885.339;824.393;LTFigure;;16-53
+119;16;1;387.072;397.245;789.23;781.435;LTFigure;;16-52
+120;16;1;357.811;371.666;730.708;735.009;LTFigure;;16-51
+121;16;1;388.031;492.192;785.52;974.555;LTFigure;;16-50
+122;16;1;377.2;503.069;763.858;996.309;LTFigure;;16-49
+123;16;1;403.745;474.386;821.834;940.365;LTFigure;;16-48
+124;16;1;382.587;434.63;779.518;860.854;LTFigure;;16-47
+125;16;1;368.895;418.114;752.133;827.822;LTFigure;;16-46
+126;16;1;484.063;485.199;978.265;961.491;LTFigure;;16-45
+127;16;1;439.798;501.804;889.735;994.701;LTFigure;;16-44
+128;16;1;398.474;484.358;807.087;959.809;LTFigure;;16-43
+129;16;1;383.672;497.173;777.483;985.439;LTFigure;;16-42
+130;16;1;364.0;458.662;738.139;908.416;LTFigure;;16-41
+131;16;1;371.17;427.711;752.479;846.515;LTFigure;;16-40
+132;16;1;351.401;409.513;712.942;810.119;LTFigure;;16-39
+133;16;1;450.897;523.432;911.933;1037.956;LTFigure;;16-38
+134;16;1;473.918;480.908;957.975;952.908;LTFigure;;16-37
+135;16;1;471.226;434.734;952.591;860.561;LTFigure;;16-36
+136;16;1;495.91;479.347;1001.96;949.786;LTFigure;;16-35
+137;16;1;320.544;311.143;649.334;613.592;LTFigure;;16-34
+138;16;1;395.441;352.264;799.15;695.775;LTFigure;;16-33
+139;16;1;556.176;340.304;1120.636;672.049;LTFigure;;16-32
+140;16;1;388.688;346.543;785.572;684.495;LTFigure;;16-31
+141;16;1;417.31;493.762;842.855;978.768;LTFigure;;16-30
+142;16;1;349.124;399.597;706.652;790.345;LTFigure;;16-29
+143;16;1;491.404;481.111;991.053;953.376;LTFigure;;16-28
+144;16;1;440.939;474.549;890.076;940.277;LTFigure;;16-27
+145;16;1;463.939;427.925;936.105;847.207;LTFigure;;16-26
+146;16;1;397.653;490.223;803.666;971.644;LTFigure;;16-25
+147;16;1;399.587;347.77;806.43;688.628;LTFigure;;16-24
+148;16;1;395.641;391.197;798.538;775.482;LTFigure;;16-23
+149;16;1;441.714;421.182;890.684;835.452;LTFigure;;16-22
+150;16;1;395.649;468.85;798.554;930.788;LTFigure;;16-21
+151;16;1;407.5;493.925;822.256;980.938;LTFigure;;16-20
+152;16;1;360.193;447.668;728.589;886.787;LTFigure;;16-19
+153;16;1;522.453;510.43;1069.273;1009.66;LTFigure;;16-18
+154;16;1;309.633;218.544;640.627;426.347;LTFigure;;16-17
+155;16;1;309.633;184.725;640.627;364.45;LTFigure;;16-16
+156;16;1;309.633;178.93;640.627;355.86;LTFigure;;16-15
+157;16;1;316.191;157.631;640.665;306.703;LTFigure;;16-14
+158;16;1;309.633;263.127;640.627;515.514;LTFigure;;16-13
+159;16;1;309.224;263.399;640.623;515.451;LTFigure;"
+      ";16-12
+160;16;2;309.224;263.399;640.623;515.451;LTFigure;;16-12-0
+161;16;1;309.633;249.127;640.627;487.514;LTFigure;;16-11
+162;16;1;309.428;249.411;640.674;487.453;LTFigure;"
+      ";16-10
+163;16;2;309.428;249.411;640.674;487.453;LTFigure;;16-10-0
+164;16;1;309.633;235.127;640.627;459.514;LTFigure;;16-9
+165;16;1;452.133;186.21;925.627;361.68;LTFigure;;16-8
+166;16;1;451.747;186.505;925.662;361.653;LTFigure;"
+      ";16-7
+167;16;2;451.747;186.505;925.662;361.653;LTFigure;;16-7-0
+168;16;1;313.042;113.753;640.427;219.1;LTFigure;;16-6
+169;16;1;315.37;128.389;640.88;247.87;LTFigure;;16-5
+170;16;1;450.786;115.025;925.939;218.85;LTFigure;;16-4
+171;16;1;458.855;126.699;924.966;246.486;LTFigure;;16-3
+172;16;1;309.238;235.425;640.575;459.479;LTFigure;"
+      ";16-2
+173;16;2;309.238;235.425;640.575;459.479;LTFigure;;16-2-0
+174;16;1;295.662;684.186;890.364;1254.132;LTFigure;;16-1
+175;16;1;76.8;98.508;280.208;692.265;LTCurve;"
+      ";16-0
+176;16;2;76.8;98.508;280.208;692.265;LTCurve;"
+        ";16-0-0
+177;16;3;98.84;659.914;271.584;682.409;LTTextBoxHorizontal;" L’océan Indien : rivalités régionales 
+et coopérations internationales ";16-0-0-2
+178;16;3;85.658;469.517;275.065;647.517;LTTextBoxHorizontal;"L’océan Indien est un vaste espace maritime 
+bordé par une très grande diversité d’États. D’une 
+superficie de 70 millions de km², cet océan borde 
+trois continents : l’Afrique, l’Asie et l’Océanie. Il 
+est limité au sud par les mers bordières de l’An- 
+tarctique. 25 États l’entourent. Trois d’entre eux 
+disposent d’un PIB supérieur à 1 000 milliards 
+de dollars (Inde, Australie, Indonésie), et sept 
+entre 250 et 1 000 milliards (Thaïlande, Iran, 
+Émirats arabes unis, Malaisie, Afrique du Sud, 
+Bangladesh, Pakistan). Tous les autres, majoritai- 
+rement des États insulaires ou africains, sont en 
+retard de développement. Tous les pays riverains 
+sont membres de l’IORA (Association des États 
+riverains de l’océan Indien). ";16-0-0-1
+179;16;3;85.658;103.848;275.059;464.682;LTTextBoxHorizontal;"’océan Indien s’inscrit dans la mondialisation 
+L 
+des échanges traversé par des flux marchands. 
+Les routes maritimes qui le traversent mettent 
+en relation les océans Pacifique et Atlantique et 
+la mer Méditerranée (via la mer Rouge) où se 
+concentrent les grandes puissances économiques 
+et les principales façades maritimes de la planète. 
+Les détroits (Malacca, Ormuz, Bab-el-Mandeb), 
+et le cap de Bonne-Espérance à la pointe sud de 
+l’Afrique sont des points de passage stratégiques. 
+De nombreux ports bordent cet océan : Port Hed- 
+land, Mumbai, Mascate, Djibouti, Mombasa, Dur- 
+ban, Port Réunion. Les ressources halieutiques 
+sont abondantes. Les gisements d’hydrocarbures 
+ne sont pas absents, quoiqu’en marge de l’océan. 
+L’océan Indien est un espace sous tension. 
+De nombreux pays riverains sont traversés par 
+des tensions ou des conflits de différentes na- 
+tures : guerre civile (Yémen, Somalie), tensions 
+ethnico-religieuses (Pakistan, Sri Lanka, Myan- 
+mar…). L’océan est lui concerné par la piraterie 
+maritime, particulièrement dans le détroit de 
+Malacca, au large de la Somalie et à proximité du 
+détroit de Bab-el-Mandeb. Les influences militaires 
+sont nombreuses ; notamment celle de l’Inde qui 
+souhaite faire de cet océan son espace maritime 
+stratégique (facilités navales aux Maldives, aux 
+Seychelles…) face à la montée en puissance de la 
+Chine qui cherche à sécuriser les routes maritimes 
+de ses approvisionnements dans cet océan. ";16-0-0-0

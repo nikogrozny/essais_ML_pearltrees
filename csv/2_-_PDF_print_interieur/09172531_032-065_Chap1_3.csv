@@ -1,0 +1,219 @@
+;page;depth;xmin;ymin;xmax;ymax;type;text;id
+0;3;0;0;0;653.622;852.047;LTPage;"
+    ";3
+1;3;1;76.413;771.433;283.715;785.433;LTTextLineHorizontal;;3-20
+2;3;2;76.413;771.433;283.715;785.433;LTTextBoxHorizontal;4 Les enjeux dans le golfe Arabo-Persique ;3-20-0
+3;3;1;257.935;458.618;362.216;474.618;LTTextBoxHorizontal;"172531_th1_ch1_05_carte_golfe 
+176 x 100 mm ";3-19
+4;3;1;553.447;47.52;564.567;57.52;LTTextLineHorizontal;;3-18
+5;3;2;553.447;47.52;564.567;57.52;LTTextBoxHorizontal;35 ;3-18-0
+6;3;1;15.0;837.047;653.622;852.047;LTFigure;"
+      ";3-17
+7;3;2;15.0;837.047;653.622;852.047;LTFigure;"
+        ";3-17-0
+8;3;3;15.0;837.047;653.622;852.047;LTFigure;;3-17-0-0
+9;3;1;66.573;480.132;564.317;766.782;LTRect;"
+      ";3-16
+10;3;2;66.573;480.132;564.317;766.782;LTRect;"
+        ";3-16-0
+11;3;3;66.573;480.132;406.628;766.781;LTRect;"
+          ";3-16-0-1
+12;3;4;306.744;662.602;396.348;668.602;LTTextLineHorizontal;;3-16-0-1-20
+13;3;5;306.744;662.602;396.348;668.602;LTTextBoxHorizontal;172531_th1_ch1_05_loc_moyen_orient ;3-16-0-1-20-0
+14;3;4;292.142;638.955;339.464;647.955;LTTextLineHorizontal;;3-16-0-1-19
+15;3;5;292.142;638.955;339.464;647.955;LTTextBoxHorizontal;Bandar Abbas ;3-16-0-1-19-0
+16;3;4;369.104;625.621;398.102;643.621;LTTextBoxHorizontal;"Détroit 
+d’Ormuz ";3-16-0-1-18
+17;3;4;182.945;610.785;218.792;619.785;LTTextLineHorizontal;;3-16-0-1-17
+18;3;5;182.945;610.785;218.792;619.785;LTTextBoxHorizontal;BAHREÏN ;3-16-0-1-17-0
+19;3;4;196.796;580.302;227.135;601.749;LTTextBoxHorizontal;"Manama 
+QATAR ";3-16-0-1-16
+20;3;4;239.15;718.281;256.673;727.281;LTTextLineHorizontal;;3-16-0-1-15
+21;3;5;239.15;718.281;256.673;727.281;LTTextBoxHorizontal;IRAN ;3-16-0-1-15-0
+22;3;4;193.151;698.589;220.826;707.589;LTTextLineHorizontal;;3-16-0-1-14
+23;3;5;193.151;698.589;220.826;707.589;LTTextBoxHorizontal;Bushehr ;3-16-0-1-14-0
+24;3;4;123.284;612.729;168.789;621.729;LTTextLineHorizontal;;3-16-0-1-13
+25;3;5;123.284;612.729;168.789;621.729;LTTextBoxHorizontal;Ras Tannurah ;3-16-0-1-13-0
+26;3;4;84.179;738.531;100.865;747.531;LTTextLineHorizontal;;3-16-0-1-12
+27;3;5;84.179;738.531;100.865;747.531;LTTextBoxHorizontal;IRAK ;3-16-0-1-12-0
+28;3;4;106.571;739.503;137.576;748.503;LTTextLineHorizontal;;3-16-0-1-11
+29;3;5;106.571;739.503;137.576;748.503;LTTextBoxHorizontal;Bassorah ;3-16-0-1-11-0
+30;3;4;104.978;676.449;132.662;685.449;LTTextLineHorizontal;;3-16-0-1-10
+31;3;5;104.978;676.449;132.662;685.449;LTTextBoxHorizontal;KOWEÏT ;3-16-0-1-10-0
+32;3;4;82.955;651.078;129.611;660.078;LTTextLineHorizontal;;3-16-0-1-9
+33;3;5;82.955;651.078;129.611;660.078;LTTextBoxHorizontal;Ras al Khafdji ;3-16-0-1-9-0
+34;3;4;74.621;557.253;93.449;566.253;LTTextLineHorizontal;;3-16-0-1-8
+35;3;5;74.621;557.253;93.449;566.253;LTTextBoxHorizontal;Riyad ;3-16-0-1-8-0
+36;3;4;119.414;535.104;183.098;544.104;LTTextLineHorizontal;;3-16-0-1-7
+37;3;5;119.414;535.104;183.098;544.104;LTTextBoxHorizontal;ARABIE SAOUDITE ;3-16-0-1-7-0
+38;3;4;101.606;505.935;105.822;512.976;LTTextLineHorizontal;;3-16-0-1-6
+39;3;5;101.606;505.935;105.822;512.976;LTTextBoxHorizontal;N ;3-16-0-1-6-0
+40;3;4;72.107;492.975;75.947;500.975;LTTextLineHorizontal;;3-16-0-1-5
+41;3;5;72.107;492.975;75.947;500.975;LTTextBoxHorizontal;0 ;3-16-0-1-5-0
+42;3;4;123.915;492.975;146.683;500.975;LTTextLineHorizontal;;3-16-0-1-4
+43;3;5;123.915;492.975;146.683;500.975;LTTextBoxHorizontal;200 km ;3-16-0-1-4-0
+44;3;4;193.093;484.289;310.618;490.289;LTTextLineHorizontal;;3-16-0-1-3
+45;3;5;193.093;484.289;310.618;490.289;LTTextBoxHorizontal;Sources : FMI (2018), Le Monde diplomatique (2018). ;3-16-0-1-3-0
+46;3;4;146.099;552.892;204.599;678.892;LTCurve;"
+            ";3-16-0-1-2
+47;3;5;164.426;665.61;176.515;671.77;LTTextLineHorizontal;;3-16-0-1-2-3
+48;3;6;164.426;665.61;176.515;671.77;LTTextBoxHorizontal;G ;3-16-0-1-2-3-0
+49;3;5;171.39;655.259;194.41;668.483;LTTextBoxHorizontal;"o 
+l 
+f 
+e ";3-16-0-1-2-2
+50;3;5;188.685;652.133;197.08;659.872;LTTextLineHorizontal; ;3-16-0-1-2-1
+51;3;5;191.261;650.537;199.726;658.198;LTTextLineHorizontal; ;3-16-0-1-2-0
+52;3;4;225.659;494.601;360.129;608.311;LTCurve;"
+            ";3-16-0-1-1
+53;3;5;263.126;547.02;303.455;556.02;LTTextLineHorizontal;;3-16-0-1-1-1
+54;3;6;263.126;547.02;303.455;556.02;LTTextBoxHorizontal;Abou Dhabi ;3-16-0-1-1-1-0
+55;3;5;258.806;503.757;305.813;521.757;LTTextBoxHorizontal;"ÉMIRATS 
+ARABES UNIS ";3-16-0-1-1-0
+56;3;4;304.244;666.826;402.404;764.986;LTImage;"
+            ";3-16-0-1-0
+57;3;5;304.244;666.826;402.404;764.986;LTFigure;"
+              ";3-16-0-1-0-0
+58;3;6;308.613;675.629;393.652;760.669;LTCurve;"
+                ";3-16-0-1-0-0-0
+59;3;7;328.252;723.713;380.661;738.713;LTTextBoxHorizontal;"Golfe 
+Arabo-Persique ";3-16-0-1-0-0-0-0
+60;3;3;403.087;480.132;564.317;766.781;LTRect;"
+          ";3-16-0-0
+61;3;4;412.765;739.866;527.002;759.866;LTTextBoxHorizontal;"1. Des situations économiques 
+variées (PIB, 2018) ";3-16-0-0-13
+62;3;4;436.685;724.418;556.869;732.418;LTTextLineHorizontal;;3-16-0-0-12
+63;3;5;436.685;724.418;556.869;732.418;LTTextBoxHorizontal;PIB supérieur à 500 milliards de dollars ;3-16-0-0-12-0
+64;3;4;436.685;710.413;558.165;718.413;LTTextLineHorizontal;;3-16-0-0-11
+65;3;5;436.685;710.413;558.165;718.413;LTTextBoxHorizontal;PIB entre 200 et 500 milliards de dollars ;3-16-0-0-11-0
+66;3;4;436.685;696.418;552.141;704.418;LTTextLineHorizontal;;3-16-0-0-10
+67;3;5;436.685;696.418;552.141;704.418;LTTextBoxHorizontal;PIB inférieur à 200 milliards de dollars ;3-16-0-0-10-0
+68;3;4;436.685;663.502;519.021;671.502;LTTextLineHorizontal;;3-16-0-0-9
+69;3;5;436.685;663.502;519.021;671.502;LTTextBoxHorizontal;Gisements d’hydrocarbures ;3-16-0-0-9-0
+70;3;4;436.685;648.384;499.797;656.384;LTTextLineHorizontal;;3-16-0-0-8
+71;3;5;436.685;648.384;499.797;656.384;LTTextBoxHorizontal;Oléoducs / Gazoducs ;3-16-0-0-8-0
+72;3;4;436.685;633.267;515.157;641.267;LTTextLineHorizontal;;3-16-0-0-7
+73;3;5;436.685;633.267;515.157;641.267;LTTextBoxHorizontal;Principale route maritime ;3-16-0-0-7-0
+74;3;4;436.685;618.149;485.557;626.149;LTTextLineHorizontal;;3-16-0-0-6
+75;3;5;436.685;618.149;485.557;626.149;LTTextBoxHorizontal;Principaux ports ;3-16-0-0-6-0
+76;3;4;436.685;603.029;493.685;611.029;LTTextLineHorizontal;;3-16-0-0-5
+77;3;5;436.685;603.029;493.685;611.029;LTTextBoxHorizontal;Détroit stratégique ;3-16-0-0-5-0
+78;3;4;436.685;564.084;552.925;572.084;LTTextLineHorizontal;;3-16-0-0-4
+79;3;5;436.685;564.084;552.925;572.084;LTTextBoxHorizontal;Pays majoritairement chiites / sunnites ;3-16-0-0-4-0
+80;3;4;436.685;542.796;545.973;559.292;LTTextBoxHorizontal;"Membres du Conseil de coopération 
+du Golfe ";3-16-0-0-3
+81;3;4;436.685;530.092;488.077;538.092;LTTextLineHorizontal;;3-16-0-0-2
+82;3;5;436.685;530.092;488.077;538.092;LTTextBoxHorizontal;Zones de tension ;3-16-0-0-2-0
+83;3;4;436.685;516.092;483.461;524.092;LTTextLineHorizontal;;3-16-0-0-1
+84;3;5;436.685;516.092;483.461;524.092;LTTextBoxHorizontal;Limites des ZEE ;3-16-0-0-1-0
+85;3;4;436.685;493.588;539.251;510.084;LTTextBoxHorizontal;"Bases militaires occidentales 
+(États-Unis, Royaume-Uni, France) ";3-16-0-0-0
+86;3;1;403.087;455.933;970.353;776.194;LTRect;;3-15
+87;3;1;304.243;764.986;706.646;1431.812;LTFigure;"
+      ";3-14
+88;3;2;575.535;771.509;597.693;780.354;LTTextLineHorizontal;;3-14-2
+89;3;3;575.535;771.509;597.693;780.354;LTTextBoxHorizontal;THÈME ;3-14-2-0
+90;3;2;602.205;771.651;606.132;780.496;LTTextLineHorizontal;;3-14-1
+91;3;3;602.205;771.651;606.132;780.496;LTTextBoxHorizontal;1 ;3-14-1-0
+92;3;2;509.543;769.256;564.921;787.567;LTCurve;"
+        ";3-14-0
+93;3;3;520.35;771.818;558.846;786.818;LTTextBoxHorizontal;"Carte 
+interactive ";3-14-0-0
+94;3;1;333.584;48.442;537.64;56.586;LTTextLineHorizontal;;3-13
+95;3;2;333.584;48.442;537.64;56.586;LTTextBoxHorizontal;CHAPITRE 1 Mers et océans : au cœur de la mondialisation ;3-13-0
+96;3;1;65.323;72.785;313.268;451.953;LTCurve;"
+      ";3-12
+97;3;2;65.323;72.785;313.268;451.953;LTCurve;"
+        ";3-12-0
+98;3;3;77.313;429.411;207.207;443.411;LTTextLineHorizontal;;3-12-0-3
+99;3;4;77.313;429.411;207.207;443.411;LTTextBoxHorizontal;5 Des rivalités régionales ;3-12-0-3-0
+100;3;3;74.827;379.609;308.691;425.609;LTTextBoxHorizontal;"Les tensions religieuses entre sunnites et chiites ne sont que 
+l’expression la plus visible des rivalités entre l’Arabie Saoudite 
+et l’Iran, deux États qui aspirent à asseoir leur puissance au 
+niveau régional […]. ";3-12-0-2
+101;3;3;74.827;157.939;308.81;374.774;LTTextBoxHorizontal;"Les Arabes et les Perses ont dominé de vastes territoires et 
+se sont retrouvés dans des rapports de soumissions, d’hostilité 
+ou de rivalités à de nombreuses reprises au cours de l’histoire 
+[…]. La guerre [entre l’Iran et l’Irak] a conduit à la création 
+du Conseil de coopération du Golfe (CCG) le 25 mai 1981 par 
+l’Arabie Saoudite, Bahreïn, les Émirats arabes unis, le Koweït, 
+Oman et le Qatar1. Il est d’abord une organisation de sécurité 
+collective, dont l’objectif est de prémunir ses membres de 
+l’expansionnisme iranien. [Mais] le Conseil représente au 
+final une simple structure de coopération qui fait montre de 
+solidarité et de cohésion en cas de menaces extérieures, mais 
+dont l’efficacité fait le plus souvent défaut en raison de diver- 
+gences d’intérêts et des rivalités entre les États membres […]. 
+La demande de sécurité auprès des États-Unis, première 
+puissance militaire au monde, émane des États de la région, 
+Arabie Saoudite en tête […]. Depuis les années 1950, les 
+États-Unis ont établi des bases militaires avant tout navales 
+et aéronavales dans tous les pays arabes du Golfe […]. ";3-12-0-1
+102;3;3;74.827;85.479;308.339;150.81;LTTextBoxHorizontal;"Frank Tétart, spécialiste du Moyen-Orient, 
+La Péninsule arabique : cœur géopolitique du Moyen-Orient, 
+Armand Colin, coll. « U », 2017. 
+1. Depuis le 6 juin 2017, les pays du CCG ont rompu leurs relations 
+diplomatiques avec le Qatar, accusant ce dernier de financer 
+le terrorisme dans la région. ";3-12-0-0
+103;3;1;272.386;429.618;319.12;450.695;LTCurve;"
+      ";3-11
+104;3;2;276.348;429.959;316.143;449.867;LTTextBoxHorizontal;"Pa ro le de 
+géog raphe ";3-11-0
+105;3;1;330.722;65.357;582.962;442.877;LTRect;"
+      ";3-10
+106;3;2;332.093;215.277;345.754;232.041;LTTextLineHorizontal;;3-10-1
+107;3;3;332.093;215.277;345.754;232.041;LTTextBoxHorizontal;o u ;3-10-1-0
+108;3;2;336.945;71.693;576.685;436.654;LTCurve;"
+        ";3-10-0
+109;3;3;361.394;414.787;410.264;424.787;LTTextLineHorizontal;;3-10-0-16
+110;3;4;361.394;414.787;410.264;424.787;LTTextBoxHorizontal;Itinéraire 1 ;3-10-0-16-0
+111;3;3;357.888;395.12;470.297;406.12;LTTextLineHorizontal;;3-10-0-15
+112;3;4;357.888;395.12;470.297;406.12;LTTextBoxHorizontal;Répondre aux questions ;3-10-0-15-0
+113;3;3;361.48;378.977;554.552;388.103;LTTextLineHorizontal;;3-10-0-14
+114;3;4;361.48;378.977;554.552;388.103;LTTextBoxHorizontal;1 Relevez les ressources importantes dont dispose ;3-10-0-14-0
+115;3;3;361.48;354.142;533.914;363.268;LTTextLineHorizontal;;3-10-0-13
+116;3;4;361.48;354.142;533.914;363.268;LTTextBoxHorizontal;2 Décrivez et analysez l’origine et la nature ;3-10-0-13-0
+117;3;3;361.48;329.308;556.15;338.433;LTTextLineHorizontal;;3-10-0-12
+118;3;4;361.48;329.308;556.15;338.433;LTTextBoxHorizontal;3 Montrez que le golfe Arabo-Persique est un espace ;3-10-0-12-0
+119;3;3;373.477;307.31;530.982;326.809;LTTextBoxHorizontal;"maritime aux enjeux stratégiques mondiaux. 
+doc. 2, 3 et 5 ";3-10-0-11
+120;3;3;357.888;289.112;411.931;300.112;LTTextLineHorizontal;;3-10-0-10
+121;3;4;357.888;289.112;411.931;300.112;LTTextBoxHorizontal;Synthétiser ;3-10-0-10-0
+122;3;3;361.48;272.969;539.125;282.095;LTTextLineHorizontal;;3-10-0-9
+123;3;4;361.48;272.969;539.125;282.095;LTTextBoxHorizontal;4 Expliquez pourquoi le golfe Arabo-Persique ;3-10-0-9-0
+124;3;3;373.477;239.972;563.341;270.47;LTTextBoxHorizontal;"est un espace maritime sous tension. Argumentez 
+en présentant les différents enjeux – régionaux 
+et mondiaux – au cœur de cet espace. doc. 1 à 5 ";3-10-0-8
+125;3;3;361.394;204.065;410.264;214.065;LTTextLineHorizontal;;3-10-0-7
+126;3;4;361.394;204.065;410.264;214.065;LTTextBoxHorizontal;Itinéraire 2 ;3-10-0-7-0
+127;3;3;357.641;160.438;501.466;195.745;LTTextBoxHorizontal;"Réaliser un dossier d’actualité 
+• Effectuez des recherches sur Internet 
+en vous aidant des documents 1 à 5. ";3-10-0-6
+128;3;3;357.641;146.6;505.915;155.1;LTTextLineHorizontal;;3-10-0-5
+129;3;4;357.641;146.6;505.915;155.1;LTTextBoxHorizontal;• Collectez des articles de presse récents. ;3-10-0-5-0
+130;3;3;357.641;132.762;483.603;141.262;LTTextLineHorizontal;;3-10-0-4
+131;3;4;357.641;132.762;483.603;141.262;LTTextBoxHorizontal;• Vous pouvez aborder les thèmes ;3-10-0-4-0
+132;3;3;364.254;121.763;397.787;130.263;LTTextLineHorizontal;;3-10-0-3
+133;3;4;364.254;121.763;397.787;130.263;LTTextBoxHorizontal;suivants : ;3-10-0-3-0
+134;3;3;357.641;88.766;490.751;119.264;LTTextBoxHorizontal;" – Des atouts et des ressources 
+ – Un espace sous tension 
+ – Un espace de coopération fragile ";3-10-0-2
+135;3;3;543.983;99.036;566.654;110.036;LTTextLineHorizontal;;3-10-0-1
+136;3;4;543.983;99.036;566.654;110.036;LTTextBoxHorizontal;p. 46 ;3-10-0-1-0
+137;3;3;532.293;206.833;576.331;223.872;LTCurve;"
+          ";3-10-0-0
+138;3;4;537.997;206.925;569.381;221.925;LTTextBoxHorizontal;"Aide et 
+méthode ";3-10-0-0-0
+139;3;1;330.722;442.877;913.684;508.234;LTFigure;;3-9
+140;3;1;519.018;143.176;1118.676;222.032;LTFigure;"
+      ";3-8
+141;3;2;523.385;173.06;596.914;193.06;LTTextBoxHorizontal;"Croquis 
+de l’étude de cas ";3-8-0
+142;3;1;519.018;143.176;1118.457;222.207;LTFigure;;3-7
+143;3;1;566.177;209.885;1159.849;389.556;LTFigure;;3-6
+144;3;1;541.469;141.207;1108.812;263.017;LTFigure;;3-5
+145;3;1;572.116;142.775;1155.817;273.799;LTFigure;;3-4
+146;3;1;529.776;124.589;1073.837;237.141;LTFigure;;3-3
+147;3;1;487.503;150.894;988.768;290.647;LTFigure;;3-2
+148;3;1;506.098;143.603;1025.959;276.065;LTFigure;;3-1
+149;3;1;487.086;210.301;1081.175;322.437;LTFigure;;3-0

@@ -1,0 +1,121 @@
+;page;depth;xmin;ymin;xmax;ymax;type;text;id
+0;22;0;0;0;653.622;852.047;LTPage;"
+    ";22
+1;22;1;77.253;715.256;584.014;741.256;LTTextLineHorizontal;;22-11
+2;22;2;77.253;715.256;584.014;741.256;LTTextBoxHorizontal;Les câbles sous-marins : les routes de l’information ;22-11-0
+3;22;1;89.012;610.898;310.252;624.898;LTTextLineHorizontal;;22-10
+4;22;2;89.012;610.898;310.252;624.898;LTTextBoxHorizontal;1 Le réseau mondial des câbles sous-marins ;22-10-0
+5;22;1;77.362;47.52;88.482;57.52;LTTextLineHorizontal;;22-9
+6;22;2;77.362;47.52;88.482;57.52;LTTextBoxHorizontal;54 ;22-9-0
+7;22;1;15.0;837.047;653.622;852.047;LTFigure;"
+      ";22-8
+8;22;2;15.0;837.047;653.622;852.047;LTFigure;;22-8-0
+9;22;1;78.272;321.421;588.199;605.865;LTRect;"
+      ";22-7
+10;22;2;78.272;321.421;588.199;605.865;LTRect;"
+        ";22-7-0
+11;22;3;78.272;321.421;588.199;605.865;LTRect;"
+          ";22-7-0-0
+12;22;4;78.272;321.421;588.199;605.865;LTRect;"
+            ";22-7-0-0-0
+13;22;5;78.272;321.421;588.199;605.865;LTRect;"
+              ";22-7-0-0-0-0
+14;22;6;78.272;321.421;588.199;605.865;LTRect;"
+                ";22-7-0-0-0-0-0
+15;22;7;292.418;588.078;398.45;596.078;LTTextLineHorizontal;;22-7-0-0-0-0-0-9
+16;22;8;292.418;588.078;398.45;596.078;LTTextBoxHorizontal;OCÉAN GLACIAL ARCTIQUE ;22-7-0-0-0-0-0-9-0
+17;22;7;512.294;498.893;530.971;506.893;LTTextLineHorizontal;;22-7-0-0-0-0-0-8
+18;22;8;512.294;498.893;530.971;506.893;LTTextBoxHorizontal;JAPON ;22-7-0-0-0-0-0-8-0
+19;22;7;543.683;456.701;582.114;475.204;LTTextBoxHorizontal;"OCÉAN 
+PACIFIQUE ";22-7-0-0-0-0-0-7
+20;22;7;120.691;433.571;159.121;452.074;LTTextBoxHorizontal;"OCÉAN 
+PACIFIQUE ";22-7-0-0-0-0-0-6
+21;22;7;85.044;358.798;213.117;371.798;LTTextBoxHorizontal;"Source : L’Atlas de l’eau et des océans, hors-série n°22, 
+Le Monde-La Vie, 2017 ; Submarine Cable Map, 2019. ";22-7-0-0-0-0-0-5
+22;22;7;465.31;361.421;565.915;440.019;LTCurve;;22-7-0-0-0-0-0-4
+23;22;7;312.319;379.925;466.51;461.576;LTCurve;"
+                  ";22-7-0-0-0-0-0-3
+24;22;8;428.063;401.276;454.081;419.779;LTTextBoxHorizontal;"OCÉAN 
+INDIEN ";22-7-0-0-0-0-0-3-0
+25;22;7;361.82;458.891;422.582;492.453;LTCurve;"
+                  ";22-7-0-0-0-0-0-2
+26;22;8;368.503;468.053;396.907;486.053;LTTextBoxHorizontal;ARABIE ;22-7-0-0-0-0-0-2-0
+27;22;7;206.15;470.424;305.942;501.228;LTCurve;"
+                  ";22-7-0-0-0-0-0-1
+28;22;8;236.349;474.521;282.983;493.024;LTTextBoxHorizontal;"OCÉAN 
+ATLANTIQUE ";22-7-0-0-0-0-0-1-0
+29;22;7;78.272;321.421;588.199;355.766;LTRect;"
+                  ";22-7-0-0-0-0-0-0
+30;22;8;276.752;346.658;390.167;354.091;LTTextLineHorizontal;;22-7-0-0-0-0-0-0-4
+31;22;9;276.752;346.658;390.167;354.091;LTTextBoxHorizontal;OCÉAN GLACIAL ANTARCTIQUE ;22-7-0-0-0-0-0-0-4-0
+32;22;8;109.391;328.19;138.519;336.19;LTTextLineHorizontal;;22-7-0-0-0-0-0-0-3
+33;22;9;109.391;328.19;138.519;336.19;LTTextBoxHorizontal;De 0 à 5 ;22-7-0-0-0-0-0-0-3-0
+34;22;8;169.391;328.19;202.359;336.19;LTTextLineHorizontal;;22-7-0-0-0-0-0-0-2
+35;22;9;169.391;328.19;202.359;336.19;LTTextBoxHorizontal;De 5 à 20 ;22-7-0-0-0-0-0-0-2-0
+36;22;8;232.544;328.19;267.744;336.19;LTTextLineHorizontal;;22-7-0-0-0-0-0-0-1
+37;22;9;232.544;328.19;267.744;336.19;LTTextBoxHorizontal;Plus de 20 ;22-7-0-0-0-0-0-0-1-0
+38;22;8;446.544;323.22;570.122;340.631;LTTextBoxHorizontal;"Câbles sous-marins en service 
+Câble sous-marin en construction (2020) ";22-7-0-0-0-0-0-0-0
+39;22;1;-240.631;231.248;661.634;321.109;LTCurve;"
+      ";22-6
+40;22;2;-240.631;250.515;661.634;321.108;LTCurve;"
+        ";22-6-0
+41;22;3;287.798;295.023;372.862;311.523;LTTextBoxHorizontal;"172531_th1_ch1_15_cables 
+180 x 100 mm ";22-6-0-1
+42;22;3;90.243;277.492;389.01;291.492;LTTextLineHorizontal;;22-6-0-0
+43;22;4;90.243;277.492;389.01;291.492;LTTextBoxHorizontal;2 Les océans dans la mondialisation des télécommunications ;22-6-0-0-0
+44;22;1;77.772;645.849;460.039;692.526;LTRect;"
+      ";22-5
+45;22;2;99.032;654.451;429.031;681.451;LTTextBoxHorizontal;"Quel est le rôle des espaces maritimes dans la mondialisation 
+des réseaux de télécommunications ? ";22-5-0
+46;22;1;78.253;72.692;419.354;299.847;LTCurve;"
+      ";22-4
+47;22;2;78.253;72.692;419.354;299.847;LTCurve;"
+        ";22-4-0
+48;22;3;87.111;179.785;414.121;273.785;LTTextBoxHorizontal;"Contrairement à une idée reçue, les satellites jouent un rôle minime dans le 
+fonctionnement d’Internet. Près de 99 % du trafic international de téléphone et 
+de données passent par des câbles sous-marins. […] En 2018, les communications 
+intercontinentales étaient assurées par 1,2 million de kilomètres de câbles sous- 
+marins. Même quand une liaison terrestre est possible, les opérateurs préfèrent 
+souvent le câble sous-marin, bien caché, moins vulnérable. Le câble (2 cm d’épaisseur) 
+est posé au fond de l’eau, jusqu’à 9 km de profondeur, où il devra fonctionner au 
+moins 25 ans […]. ";22-4-0-2
+49;22;3;87.111;104.95;414.16;174.955;LTTextBoxHorizontal;"La demande s’accroît […] avec les géants américains du Web (Google, Facebook, 
+Microsoft), qui ouvrent de nouvelles routes, en fonction de leurs besoins. Google a 
+ainsi investi dans plusieurs câbles vers l’Asie, en partenariat avec des compagnies 
+télécoms locales. Parallèlement, Microsoft et un groupe d’opérateurs asiatiques ont 
+lancé la construction [d’un câble] entre les États-Unis, la Chine, le Japon et la Corée 
+du Sud. De son côté, Facebook a participé au financement d’un câble régional. ";22-4-0-1
+50;22;3;176.444;78.823;413.785;97.821;LTTextBoxHorizontal;"Yves Eudes, « La toile mondiale se tisse sous la mer », hors-série n° 22, 
+L’Atlas de l’eau et des océans, Le Monde-La Vie, 2017. ";22-4-0-0
+51;22;1;436.95;65.402;595.11;280.442;LTRect;"
+      ";22-3
+52;22;2;443.174;71.693;588.859;274.219;LTCurve;"
+        ";22-3-0
+53;22;3;452.953;210.392;570.892;264.862;LTTextBoxHorizontal;"Consigne : En analysant les 
+documents, vous expliquerez 
+le rôle des espaces maritimes 
+dans la mondialisation des 
+télécommunications. ";22-3-0-6
+54;22;3;452.953;166.884;554.264;199.134;LTTextBoxHorizontal;"Aide pour répondre 
+à la consigne : 
+• Soulignez la place essentielle ";22-3-0-5
+55;22;3;458.622;144.886;562.755;164.385;LTTextBoxHorizontal;"des câbles sous-marins dans les 
+télécommunications planétaires. ";22-3-0-4
+56;22;3;452.953;133.884;555.199;142.384;LTTextLineHorizontal;;22-3-0-3
+57;22;4;452.953;133.884;555.199;142.384;LTTextBoxHorizontal;• Précisez les différents acteurs ;22-3-0-3-0
+58;22;3;458.622;111.886;566.045;131.385;LTTextBoxHorizontal;"impliqués dans la pose de câbles 
+sous-marins. ";22-3-0-2
+59;22;3;452.953;100.884;561.506;109.384;LTTextLineHorizontal;;22-3-0-1
+60;22;4;452.953;100.884;561.506;109.384;LTTextBoxHorizontal;• Montrez que les territoires sont ;22-3-0-1-0
+61;22;3;458.622;78.886;568.739;98.385;LTTextBoxHorizontal;"inégalement connectés au réseau 
+planétaire des câbles sous-marins. ";22-3-0-0
+62;22;1;436.95;280.442;1032.06;345.844;LTFigure;;22-2
+63;22;1;524.876;610.067;580.254;628.378;LTCurve;"
+      ";22-1
+64;22;2;535.682;612.629;574.178;627.629;LTTextBoxHorizontal;"Carte 
+interactive ";22-1-0
+65;22;1;525.145;645.849;585.948;671.101;LTRect;"
+      ";22-0
+66;22;2;529.397;647.891;579.516;663.387;LTTextBoxHorizontal;"Mondialisation : 20 000 
+câbles sous les mers. ";22-0-0

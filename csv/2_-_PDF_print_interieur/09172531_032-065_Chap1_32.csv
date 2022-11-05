@@ -1,0 +1,132 @@
+;page;depth;xmin;ymin;xmax;ymax;type;text;id
+0;32;0;0;0;653.622;852.047;LTPage;"
+    ";32
+1;32;1;15.0;15.0;1233.898;837.047;LTRect;"
+      ";32-6
+2;32;2;77.362;723.082;469.648;749.082;LTTextLineHorizontal;;32-6-13
+3;32;3;77.362;723.082;469.648;749.082;LTTextBoxHorizontal;Les marins, acteurs de la mondialisation ;32-6-13-0
+4;32;2;86.575;590.882;333.951;707.882;LTTextBoxHorizontal;"L’accroissement des échanges internationaux 
+a renforcé l’importance des océans. Les marins 
+de commerce sont des acteurs majeurs et des 
+témoins de la mondialisation depuis les mers. 
+Aujourd’hui estimés entre 1,5 et 2 millions 
+d’individus, ils sont majoritairement originaires 
+des pays en développement d’Asie (Philippines, 
+Chine, Indonésie, Inde). ";32-6-12
+5;32;2;88.352;501.932;283.081;515.932;LTTextLineHorizontal;;32-6-11
+6;32;3;88.352;501.932;283.081;515.932;LTTextBoxHorizontal;1 30 jours à bord d’un porte-conteneurs ;32-6-11-0
+7;32;2;77.362;47.52;88.482;57.52;LTTextLineHorizontal;;32-6-10
+8;32;3;77.362;47.52;88.482;57.52;LTTextBoxHorizontal;64 ;32-6-10-0
+9;32;2;77.612;169.03;588.199;495.129;LTRect;"
+        ";32-6-9
+10;32;3;77.612;169.03;588.199;495.129;LTRect;"
+          ";32-6-9-0
+11;32;4;339.837;477.122;430.797;487.122;LTTextLineHorizontal;;32-6-9-0-14
+12;32;5;339.837;477.122;430.797;487.122;LTTextBoxHorizontal;OCÉAN PACIFIQUE ;32-6-9-0-14-0
+13;32;4;355.635;456.437;390.652;463.937;LTTextLineHorizontal;;32-6-9-0-13
+14;32;5;355.635;456.437;390.652;463.937;LTTextBoxHorizontal;PHILIPPINES ;32-6-9-0-13-0
+15;32;4;272.398;449.846;319.508;459.846;LTTextLineHorizontal;;32-6-9-0-12
+16;32;5;272.398;449.846;319.508;459.846;LTTextBoxHorizontal;Hong Kong ;32-6-9-0-12-0
+17;32;4;141.562;422.762;161.842;430.262;LTTextLineHorizontal;;32-6-9-0-11
+18;32;5;141.562;422.762;161.842;430.262;LTTextBoxHorizontal;RUSSIE ;32-6-9-0-11-0
+19;32;4;385.29;374.034;428.13;381.534;LTTextLineHorizontal;;32-6-9-0-10
+20;32;5;385.29;374.034;428.13;381.534;LTTextBoxHorizontal;I N D O N É S I E ;32-6-9-0-10-0
+21;32;4;369.518;356.096;412.928;366.096;LTTextLineHorizontal;;32-6-9-0-9
+22;32;5;369.518;356.096;412.928;366.096;LTTextBoxHorizontal;Singapour ;32-6-9-0-9-0
+23;32;4;348.826;337.551;375.251;351.551;LTTextBoxHorizontal;"Détroit de 
+Malacca ";32-6-9-0-8
+24;32;4;142.305;314.577;179.622;321.577;LTTextLineHorizontal;;32-6-9-0-7
+25;32;5;142.305;314.577;179.622;321.577;LTTextBoxHorizontal;Canal de Suez ;32-6-9-0-7-0
+26;32;4;187.714;236.972;228.272;260.369;LTTextBoxHorizontal;"Détroit de 
+Bab el-Mandeb 
+SOMALIE ";32-6-9-0-6
+27;32;4;154.56;271.677;367.197;450.076;LTCurve;"
+            ";32-6-9-0-5
+28;32;5;277.065;435.264;295.275;442.764;LTTextLineHorizontal;;32-6-9-0-5-7
+29;32;6;277.065;435.264;295.275;442.764;LTTextBoxHorizontal;CHINE ;32-6-9-0-5-7-0
+30;32;5;316.477;372.166;349.957;379.666;LTTextLineHorizontal;;32-6-9-0-5-6
+31;32;6;316.477;372.166;349.957;379.666;LTTextBoxHorizontal;THAÏLANDE ;32-6-9-0-5-6-0
+32;32;5;324.757;356.791;352.687;364.291;LTTextLineHorizontal;;32-6-9-0-5-5
+33;32;6;324.757;356.791;352.687;364.291;LTTextBoxHorizontal;MALAISIE ;32-6-9-0-5-5-0
+34;32;5;207.377;324.244;249.881;331.244;LTTextLineHorizontal;;32-6-9-0-5-4
+35;32;6;207.377;324.244;249.881;331.244;LTTextBoxHorizontal;Détroit d’Ormuz ;32-6-9-0-5-4-0
+36;32;5;290.625;322.074;321.607;329.574;LTTextLineHorizontal;;32-6-9-0-5-3
+37;32;6;290.625;322.074;321.607;329.574;LTTextBoxHorizontal;SRI LANKA ;32-6-9-0-5-3-0
+38;32;5;167.955;296.837;197.542;311.837;LTTextBoxHorizontal;"ARABIE 
+SAOUDITE ";32-6-9-0-5-2
+39;32;5;214.935;301.359;234.255;308.859;LTTextLineHorizontal;;32-6-9-0-5-1
+40;32;6;214.935;301.359;234.255;308.859;LTTextBoxHorizontal;OMAN ;32-6-9-0-5-1-0
+41;32;5;304.967;274.962;342.137;284.962;LTTextLineHorizontal;;32-6-9-0-5-0
+42;32;6;304.967;274.962;342.137;284.962;LTTextBoxHorizontal;OCÉAN ;32-6-9-0-5-0-0
+43;32;4;442.755;419.434;570.195;491.194;LTImage;"
+            ";32-6-9-0-4
+44;32;5;442.755;419.434;570.195;491.194;LTFigure;;32-6-9-0-4-0
+45;32;4;442.755;337.934;570.195;409.694;LTImage;"
+            ";32-6-9-0-3
+46;32;5;442.755;337.934;570.195;409.694;LTFigure;;32-6-9-0-3-0
+47;32;4;442.571;255.95;570.011;327.71;LTImage;"
+            ";32-6-9-0-2
+48;32;5;442.571;255.95;570.011;327.71;LTFigure;;32-6-9-0-2-0
+49;32;4;442.298;173.887;569.738;245.647;LTImage;"
+            ";32-6-9-0-1
+50;32;5;442.298;173.887;569.738;245.647;LTFigure;;32-6-9-0-1-0
+51;32;4;298.209;173.844;425.649;245.604;LTImage;"
+            ";32-6-9-0-0
+52;32;5;298.209;173.844;425.649;245.604;LTFigure;;32-6-9-0-0-0
+53;32;2;96.443;118.151;603.093;646.918;LTCurve;"
+        ";32-6-8
+54;32;3;101.434;119.583;460.649;588.992;LTCurve;"
+          ";32-6-8-3
+55;32;4;101.74;552.798;327.816;579.801;LTTextBoxHorizontal;" Que nous apprend la vie des marins sur la 
+mondialisation des échanges maritimes ? ";32-6-8-3-4
+56;32;4;102.815;120.305;459.939;529.202;LTCurve;"
+            ";32-6-8-3-3
+57;32;5;108.415;134.56;155.325;144.56;LTTextLineHorizontal;;32-6-8-3-3-1
+58;32;6;108.415;134.56;155.325;144.56;LTTextBoxHorizontal;Timelapse ;32-6-8-3-3-1-0
+59;32;5;288.274;140.827;391.269;158.83;LTTextBoxHorizontal;"172531_th1_ch1_20_timelapse 
+180 x 115 mm ";32-6-8-3-3-0
+60;32;4;221.243;283.423;446.42;561.923;LTFigure;;32-6-8-3-2
+61;32;4;196.695;270.428;397.325;535.934;LTFigure;;32-6-8-3-1
+62;32;4;173.844;269.708;351.788;535.448;LTFigure;;32-6-8-3-0
+63;32;3;243.695;293.303;491.325;581.684;LTFigure;;32-6-8-2
+64;32;3;269.57;303.678;543.075;602.434;LTFigure;;32-6-8-1
+65;32;3;291.445;312.428;586.825;619.934;LTFigure;;32-6-8-0
+66;32;2;251.145;45.858;599.921;242.834;LTCurve;"
+        ";32-6-7
+67;32;3;391.085;71.438;588.449;133.772;LTCurve;"
+          ";32-6-7-0
+68;32;4;396.754;77.732;584.346;126.588;LTTextBoxHorizontal;"◗◗ Timelapse : animation vidéo réalisée par une 
+série de photographies prises à des moments 
+différents pour présenter, en un laps de temps 
+court, l’évolution de l’objet photographié sur une 
+période longue. ";32-6-7-0-0
+69;32;2;315.678;320.99;635.84;637.985;LTFigure;;32-6-6
+70;32;2;324.445;340.74;653.699;677.516;LTFigure;"
+        ";32-6-5
+71;32;3;396.353;576.447;568.633;673.947;LTTextBoxHorizontal;" On appelle « marins de commerce » 
+tous les marins dont l’activité n’est 
+pas liée à la pêche professionnelle : 
+marine marchande, transport de 
+marchandises et de passagers, 
+activités portuaires… 
+Les femmes représentent entre 
+2 et 3 % des marins dans le monde. ";32-6-5-0
+72;32;2;342.577;357.854;688.832;710.431;LTFigure;;32-6-4
+73;32;2;364.591;372.49;734.548;741.632;LTFigure;;32-6-3
+74;32;2;360.607;392.615;726.185;781.313;LTFigure;;32-6-2
+75;32;2;352.857;409.865;710.685;815.813;LTFigure;;32-6-1
+76;32;2;80.622;72.193;348.779;140.224;LTCurve;"
+        ";32-6-0
+77;32;3;87.425;77.188;335.392;125.188;LTTextBoxHorizontal;"Jeffrey est officier hongkongais de la marine marchande à bord 
+du OOCL BRUSSELS (366 m/48 m), un porte-conteneurs sous le 
+pavillon de Hong Kong. Pendant 30 jours de mer, il prend 80 000 
+photographies à intervalles réguliers pour créer un timelapse de 
+10 minutes qu’il publie sur Youtube le 9 septembre 2017. ";32-6-0-0
+78;32;1;15.0;837.047;653.622;852.047;LTFigure;"
+      ";32-5
+79;32;2;15.0;837.047;653.622;852.047;LTFigure;;32-5-0
+80;32;1;-443.917;36.245;625.286;676.188;LTCurve;;32-4
+81;32;1;343.016;427.383;690.99;850.843;LTFigure;;32-3
+82;32;1;329.64;445.74;663.916;887.491;LTFigure;;32-2
+83;32;1;385.911;694.681;968.622;1240.562;LTFigure;;32-1
+84;32;1;385.911;694.681;967.995;1241.236;LTFigure;;32-0

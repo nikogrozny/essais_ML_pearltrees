@@ -1,0 +1,127 @@
+;page;depth;xmin;ymin;xmax;ymax;type;text;id
+0;24;0;0;0;653.622;852.047;LTPage;"
+    ";24
+1;24;1;77.362;720.433;563.997;751.433;LTTextLineHorizontal;;24-9
+2;24;2;77.362;720.433;563.997;751.433;LTTextBoxHorizontal;Mers et océans : vecteurs essentiels de la ;24-9-0
+3;24;1;655.357;720.433;825.144;751.433;LTTextLineHorizontal;;24-8
+4;24;2;655.357;720.433;825.144;751.433;LTTextBoxHorizontal;mondialisation ;24-8-0
+5;24;1;77.362;47.52;88.482;57.52;LTTextLineHorizontal;;24-7
+6;24;2;77.362;47.52;88.482;57.52;LTTextBoxHorizontal;56 ;24-7-0
+7;24;1;572.071;41.845;791.788;59.848;LTTextBoxHorizontal;"172531_th1_ch1_16_mondialisation 
+Format : 310 x 225 mm – pli à 130 mm du bord gauche de la carte ";24-6
+8;24;1;15.0;837.047;653.622;852.047;LTFigure;;24-5
+9;24;1;281.102;71.943;1159.946;705.459;LTRect;"
+      ";24-4
+10;24;2;668.23;160.309;814.6;170.309;LTTextLineHorizontal;;24-4-13
+11;24;3;668.23;160.309;814.6;170.309;LTTextBoxHorizontal;2. Des espaces maritimes exploités ;24-4-13-0
+12;24;2;904.23;160.309;1149.39;170.309;LTTextLineHorizontal;;24-4-12
+13;24;3;904.23;160.309;1149.39;170.309;LTTextBoxHorizontal;3. La maritimisation des économies dans la mondialisation ;24-4-12-0
+14;24;2;703.49;142.08;793.794;150.58;LTTextLineHorizontal;;24-4-11
+15;24;3;703.49;142.08;793.794;150.58;LTTextBoxHorizontal;Principales zones de pêche ;24-4-11-0
+16;24;2;939.491;142.08;1134.872;150.58;LTTextLineHorizontal;;24-4-10
+17;24;3;939.491;142.08;1134.872;150.58;LTTextBoxHorizontal;Principaux espaces productifs intégrés à la mondialisation ;24-4-10-0
+18;24;2;669.111;123.507;695.703;134.507;LTTextLineHorizontal;;24-4-9
+19;24;3;669.111;123.507;695.703;134.507;LTTextBoxHorizontal;CHINE ;24-4-9-0
+20;24;2;703.49;125.581;818.878;134.081;LTTextLineHorizontal;;24-4-8
+21;24;3;703.49;125.581;818.878;134.081;LTTextBoxHorizontal;Principales puissances halieutiques ;24-4-8-0
+22;24;2;939.491;125.25;1137.898;133.75;LTTextLineHorizontal;;24-4-7
+23;24;3;939.491;125.25;1137.898;133.75;LTTextBoxHorizontal;Principaux ports de conteneurs (+ de 20 millions d’EVP/an) ;24-4-7-0
+24;24;2;703.49;107.493;773.233;115.993;LTTextLineHorizontal;;24-4-6
+25;24;3;703.49;107.493;773.233;115.993;LTTextBoxHorizontal;Principaux gisements ;24-4-6-0
+26;24;2;703.49;97.99;787.827;106.49;LTTextLineHorizontal;;24-4-5
+27;24;3;703.49;97.99;787.827;106.49;LTTextBoxHorizontal;d’hydrocarbures offshore ;24-4-5-0
+28;24;2;939.491;108.42;1041.295;116.92;LTTextLineHorizontal;;24-4-4
+29;24;3;939.491;108.42;1041.295;116.92;LTTextBoxHorizontal;Principales façades maritimes ;24-4-4-0
+30;24;2;939.491;91.59;1069.864;100.09;LTTextLineHorizontal;;24-4-3
+31;24;3;939.491;91.59;1069.864;100.09;LTTextBoxHorizontal;Principaux pays de construction navale ;24-4-3-0
+32;24;2;939.51;74.503;1022.168;83.512;LTTextLineHorizontal;;24-4-2
+33;24;3;939.51;74.503;1022.168;83.512;LTTextBoxHorizontal;Paradis ﬁscaux offshore ;24-4-2-0
+34;24;2;281.102;71.943;638.622;705.458;LTRect;"
+        ";24-4-1
+35;24;3;400.266;547.883;453.51;574.081;LTTextBoxHorizontal;"OCÉAN 
+PACIFIQUE ";24-4-1-6
+36;24;3;352.49;143.08;445.557;151.58;LTTextLineHorizontal;;24-4-1-5
+37;24;4;352.49;143.08;445.557;151.58;LTTextBoxHorizontal;Principales routes maritimes ;24-4-1-5-0
+38;24;3;352.49;123.08;450.606;131.58;LTTextLineHorizontal;;24-4-1-4
+39;24;4;352.49;123.08;450.606;131.58;LTTextBoxHorizontal;Routes maritimes secondaires ;24-4-1-4-0
+40;24;3;352.49;103.173;512.715;111.673;LTTextLineHorizontal;;24-4-1-3
+41;24;4;352.49;103.173;512.715;111.673;LTTextBoxHorizontal;Nouvelles routes maritimes, en voie d’ouverture ;24-4-1-3-0
+42;24;3;352.49;83.079;427.095;91.579;LTTextLineHorizontal;;24-4-1-2
+43;24;4;352.49;83.079;427.095;91.579;LTTextBoxHorizontal;Passages stratégiques ;24-4-1-2-0
+44;24;3;431.909;293.925;616.575;519.925;LTCurve;"
+          ";24-4-1-1
+45;24;4;448.434;478.423;494.956;485.423;LTTextLineHorizontal;;24-4-1-1-1
+46;24;5;448.434;478.423;494.956;485.423;LTTextBoxHorizontal;Canal de Panamá ;24-4-1-1-1-0
+47;24;4;553.312;464.683;608.149;485.311;LTTextBoxHorizontal;"OCÉAN 
+ATLANTIQUE ";24-4-1-1-0
+48;24;3;529.712;519.428;628.542;640.178;LTCurve;"
+          ";24-4-1-0
+49;24;4;534.574;519.553;615.168;640.178;LTCurve;"
+            ";24-4-1-0-0
+50;24;5;559.376;573.173;589.442;596.174;LTTextBoxHorizontal;"ÉTATS- 
+UNIS ";24-4-1-0-0-1
+51;24;5;562.693;533.94;594.917;542.44;LTTextLineHorizontal;;24-4-1-0-0-0
+52;24;6;562.693;533.94;594.917;542.44;LTTextBoxHorizontal;New York ;24-4-1-0-0-0-0
+53;24;2;286.322;179.77;1154.182;699.203;LTCurve;"
+        ";24-4-0
+54;24;3;624.576;198.592;861.242;437.925;LTCurve;"
+          ";24-4-0-2
+55;24;4;640.584;417.382;672.196;431.382;LTTextBoxHorizontal;"Détroit 
+de Gibraltar ";24-4-0-2-3
+56;24;4;791.567;267.24;806.736;274.24;LTTextLineHorizontal;;24-4-0-2-2
+57;24;5;791.567;267.24;806.736;274.24;LTTextBoxHorizontal;Canal ;24-4-0-2-2-0
+58;24;4;795.781;260.24;802.522;267.24;LTTextLineHorizontal;;24-4-0-2-1
+59;24;5;795.781;260.24;802.522;267.24;LTTextBoxHorizontal;du ;24-4-0-2-1-0
+60;24;4;781.851;253.24;816.459;260.24;LTTextLineHorizontal;;24-4-0-2-0
+61;24;5;781.851;253.24;816.459;260.24;LTTextBoxHorizontal;Mozambique ;24-4-0-2-0-0
+62;24;3;881.242;360.258;1088.242;611.258;LTCurve;;24-4-0-1
+63;24;3;635.158;214.006;942.579;654.094;LTCurve;"
+          ";24-4-0-0
+64;24;4;905.625;356.818;940.499;367.298;LTTextLineHorizontal;;24-4-0-0-1
+65;24;5;905.625;356.818;940.499;367.298;LTTextBoxHorizontal;INDIEN ;24-4-0-0-1-0
+66;24;4;663.909;364.591;942.575;552.258;LTCurve;;24-4-0-0-0
+67;24;1;77.253;261.142;258.67;463.819;LTCurve;"
+      ";24-3
+68;24;2;127.825;424.995;208.101;449.727;LTTextBoxHorizontal;"Chiffres clés 
+Mers et océans ";24-3-3
+69;24;2;138.759;390.257;225.756;412.714;LTTextBoxHorizontal;"97 % 
+de l’eau sur la planète ";24-3-2
+70;24;2;138.759;327.841;248.621;365.298;LTTextBoxHorizontal;"361 millions 
+de km2 
+(71 % de la surface du globe) ";24-3-1
+71;24;2;138.759;273.199;223.946;316.056;LTTextBoxHorizontal;"152 États 
+ont un accès à la mer 
+(78 % des États 
+dans le monde) ";24-3-0
+72;24;1;77.347;512.764;258.779;682.843;LTCurve;"
+      ";24-2
+73;24;2;84.434;519.26;253.537;676.612;LTTextBoxHorizontal;"◗◗ EVP (Équivalent vingt pieds) : unité de 
+mesure des conteneurs correspondant à 
+environ 6 mètres de long. 
+◗◗ Halieutique : qui concerne la pêche. 
+◗◗ Offshore : terme anglais qui désigne une 
+activité se déroulant en pleine mer, ainsi que 
+le placement de capitaux dans un paradis 
+fiscal. 
+◗◗ ZEE (Zone économique exclusive) : espace 
+maritime délimité par la Convention des 
+Nations unies sur le droit de la mer qui 
+s’étend sur 200 milles marins (370 km) à 
+partir du littoral. Il accorde à l’État côtier 
+la souveraineté sur les ressources qui s’y 
+trouvent. Voir p. 90. ";24-2-0
+74;24;1;71.03;65.479;265.19;188.119;LTRect;"
+      ";24-1
+75;24;2;77.253;71.693;258.779;181.896;LTCurve;"
+        ";24-1-0
+76;24;3;95.019;155.411;226.969;164.536;LTTextLineHorizontal;;24-1-0-4
+77;24;4;95.019;155.411;226.969;164.536;LTTextBoxHorizontal;1 Localisez les principales façades ;24-1-0-4-0
+78;24;3;107.015;144.412;200.524;152.912;LTTextLineHorizontal;;24-1-0-3
+79;24;4;107.015;144.412;200.524;152.912;LTTextBoxHorizontal;maritimes dans le monde. ;24-1-0-3-0
+80;24;3;95.019;119.577;240.822;139.701;LTTextBoxHorizontal;"2 Citez les régions du monde les plus 
+reliées aux grandes routes maritimes. ";24-1-0-2
+81;24;3;95.019;105.741;221.0;114.867;LTTextLineHorizontal;;24-1-0-1
+82;24;4;95.019;105.741;221.0;114.867;LTTextBoxHorizontal;3 Citez les principales ressources ;24-1-0-1-0
+83;24;3;107.015;94.742;233.113;103.242;LTTextLineHorizontal;;24-1-0-0
+84;24;4;107.015;94.742;233.113;103.242;LTTextBoxHorizontal;exploitées dans les mers et océans. ;24-1-0-0-0
+85;24;1;71.03;188.119;336.22;253.598;LTFigure;;24-0

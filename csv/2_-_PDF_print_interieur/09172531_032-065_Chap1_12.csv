@@ -1,0 +1,127 @@
+;page;depth;xmin;ymin;xmax;ymax;type;text;id
+0;12;0;0;0;653.622;852.047;LTPage;"
+    ";12
+1;12;1;77.717;687.994;382.775;741.996;LTTextBoxHorizontal;"Le détroit de Malacca : un point 
+de passage majeur et stratégique ";12-14
+2;12;1;303.785;587.546;593.07;601.546;LTTextLineHorizontal;;12-13
+3;12;2;303.785;587.546;593.07;601.546;LTTextBoxHorizontal;2 L’évolution du trafic dans le détroit de Malacca (2000-2017) ;12-13-0
+4;12;1;276.191;121.976;295.391;135.976;LTTextLineHorizontal;;12-12
+5;12;2;276.191;121.976;295.391;135.976;LTTextBoxHorizontal;3 ;12-12-0
+6;12;1;162.538;82.528;286.426;117.21;LTTextBoxHorizontal;"Le détroit de Malacca 
+et le port de Singapour 
+Navires en attente à l’approche ";12-11
+7;12;1;175.946;72.528;281.458;80.528;LTTextLineHorizontal;;12-10
+8;12;2;175.946;72.528;281.458;80.528;LTTextBoxHorizontal;du port de Singapour, 2019. ;12-10-0
+9;12;1;77.362;47.52;88.482;57.52;LTTextLineHorizontal;;12-9
+10;12;2;77.362;47.52;88.482;57.52;LTTextBoxHorizontal;44 ;12-9-0
+11;12;1;15.0;837.047;653.622;852.047;LTFigure;"
+      ";12-8
+12;12;2;15.0;837.047;653.622;852.047;LTFigure;;12-8-0
+13;12;1;291.709;21.194;625.548;334.641;LTImage;"
+      ";12-7
+14;12;2;291.709;21.194;625.548;334.641;LTFigure;;12-7-0
+15;12;1;293.645;356.175;588.449;582.947;LTCurve;"
+      ";12-6
+16;12;2;307.255;560.925;563.6;568.925;LTTextLineHorizontal;;12-6-13
+17;12;3;307.255;560.925;563.6;568.925;LTTextBoxHorizontal;En nombre de navires de plus de 300 tonneaux de jauge brute* (TJB) ;12-6-13-0
+18;12;2;306.401;542.839;334.161;550.839;LTTextLineHorizontal;;12-6-12
+19;12;3;306.401;542.839;334.161;550.839;LTTextBoxHorizontal;85 000 ;12-6-12-0
+20;12;2;306.401;523.749;334.049;531.749;LTTextLineHorizontal;;12-6-11
+21;12;3;306.401;523.749;334.049;531.749;LTTextBoxHorizontal;80 000 ;12-6-11-0
+22;12;2;306.401;504.657;333.257;512.657;LTTextLineHorizontal;;12-6-10
+23;12;3;306.401;504.657;333.257;512.657;LTTextBoxHorizontal;75 000 ;12-6-10-0
+24;12;2;306.401;485.567;333.145;493.567;LTTextLineHorizontal;;12-6-9
+25;12;3;306.401;485.567;333.145;493.567;LTTextBoxHorizontal;70 000 ;12-6-9-0
+26;12;2;306.401;466.476;334.001;474.476;LTTextLineHorizontal;;12-6-8
+27;12;3;306.401;466.476;334.001;474.476;LTTextBoxHorizontal;65 000 ;12-6-8-0
+28;12;2;306.401;447.384;333.889;455.384;LTTextLineHorizontal;;12-6-7
+29;12;3;306.401;447.384;333.889;455.384;LTTextBoxHorizontal;60 000 ;12-6-7-0
+30;12;2;306.401;428.293;334.225;436.293;LTTextLineHorizontal;;12-6-6
+31;12;3;306.401;428.293;334.225;436.293;LTTextBoxHorizontal;55 000 ;12-6-6-0
+32;12;2;333.853;400.782;354.025;408.782;LTTextLineHorizontal;;12-6-5
+33;12;3;333.853;400.782;354.025;408.782;LTTextBoxHorizontal;2000 ;12-6-5-0
+34;12;2;381.716;400.782;478.258;408.782;LTTextLineHorizontal;;12-6-4
+35;12;3;381.716;400.782;478.258;408.782;LTTextBoxHorizontal;2004 2005 2008 2009 ;12-6-4-0
+36;12;2;489.041;400.782;550.384;408.782;LTTextLineHorizontal;;12-6-3
+37;12;3;489.041;400.782;550.384;408.782;LTTextBoxHorizontal;2012 2013 2015 ;12-6-3-0
+38;12;2;559.59;400.782;576.109;408.782;LTTextLineHorizontal;;12-6-2
+39;12;3;559.59;400.782;576.109;408.782;LTTextBoxHorizontal;2017 ;12-6-2-0
+40;12;2;386.949;377.158;575.693;395.117;LTTextBoxHorizontal;"* Unité de mesure équivalente à environ 3 m 3. 
+Un navire de 300 TJB transporte donc environ 900 m 3. ";12-6-1
+41;12;2;422.214;367.306;575.694;373.306;LTTextLineHorizontal;;12-6-0
+42;12;3;422.214;367.306;575.694;373.306;LTTextBoxHorizontal;Source : Marine Department Peninsular Malaysia, 2019. ;12-6-0-0
+43;12;1;422.215;374.032;997.908;741.337;LTFigure;"
+      ";12-5
+44;12;2;506.81;716.113;549.666;723.613;LTTextLineHorizontal;;12-5-2
+45;12;3;506.81;716.113;549.666;723.613;LTTextBoxHorizontal;85 000 environ ;12-5-2-0
+46;12;2;494.353;599.122;549.969;603.442;LTTextLineHorizontal;;12-5-1
+47;12;3;494.353;599.122;549.969;603.442;LTTextBoxHorizontal;172531_th1_ch1_10_loc_malacca ;12-5-1-0
+48;12;2;469.583;601.184;581.903;713.744;LTImage;"
+        ";12-5-0
+49;12;3;469.583;601.184;581.903;713.744;LTFigure;"
+          ";12-5-0-0
+50;12;4;473.917;610.065;573.129;709.277;LTCurve;;12-5-0-0-0
+51;12;1;77.772;625.96;438.307;672.637;LTRect;"
+      ";12-4
+52;12;2;99.032;634.563;419.487;661.563;LTTextBoxHorizontal;"Quels sont les atouts et les contraintes du détroit de Malacca 
+dans le commerce maritime mondial ? ";12-4-0
+53;12;1;394.638;708.977;594.318;801.377;LTRect;"
+      ";12-3
+54;12;2;400.941;715.157;588.028;795.153;LTRect;"
+        ";12-3-0
+55;12;3;411.713;778.89;485.831;789.89;LTTextLineHorizontal;;12-3-0-6
+56;12;4;411.713;778.89;485.831;789.89;LTTextBoxHorizontal;Zoom sur… ;12-3-0-6-0
+57;12;3;411.56;760.208;513.95;770.208;LTTextLineHorizontal;;12-3-0-5
+58;12;4;411.56;760.208;513.95;770.208;LTTextBoxHorizontal; Le détroit de Malacca ;12-3-0-5-0
+59;12;3;405.193;746.706;434.645;754.206;LTTextLineHorizontal;;12-3-0-4
+60;12;4;405.193;746.706;434.645;754.206;LTTextBoxHorizontal;Longueur ;12-3-0-4-0
+61;12;3;405.193;731.413;429.148;738.913;LTTextLineHorizontal;;12-3-0-3
+62;12;4;405.193;731.413;429.148;738.913;LTTextBoxHorizontal;Largeur ;12-3-0-3-0
+63;12;3;506.81;746.706;528.155;754.206;LTTextLineHorizontal;;12-3-0-2
+64;12;4;506.81;746.706;528.155;754.206;LTTextBoxHorizontal;700 km ;12-3-0-2-0
+65;12;3;506.81;727.408;559.678;742.911;LTTextBoxHorizontal;"Entre 3 km (min.) 
+et 125 km (max.) ";12-3-0-1
+66;12;3;405.193;716.113;486.463;723.613;LTTextLineHorizontal;;12-3-0-0
+67;12;4;405.193;716.113;486.463;723.613;LTTextBoxHorizontal;Nombre de navires par an ;12-3-0-0-0
+68;12;1;394.638;801.377;988.956;1510.354;LTFigure;;12-2
+69;12;1;75.443;161.211;269.118;603.987;LTCurve;"
+      ";12-1
+70;12;2;75.443;161.211;269.118;603.987;LTCurve;"
+        ";12-1-0
+71;12;3;87.433;581.631;254.915;595.631;LTTextLineHorizontal;;12-1-0-3
+72;12;4;87.433;581.631;254.915;595.631;LTTextBoxHorizontal;1 Un passage maritime fréquenté ;12-1-0-3-0
+73;12;3;84.301;226.118;263.92;574.953;LTTextBoxHorizontal;"Couloir maritime de 45 kilomètres de large 
+et 700 kilomètres de long, situé dans le Sud-Est 
+asiatique, [le détroit de Malacca] est coincé entre 
+la Malaisie et l’Indonésie. Moins connu que Suez 
+ou Panama, ce bras de mer, le plus fréquenté au 
+monde – un tiers du trafic mondial et 90 % de 
+celui de la Chine, soit un bateau toutes les huit 
+minutes –, est régulièrement l’objet d’actes de 
+piraterie ou de tensions régionales relatives à 
+la sécurité du détroit et à la souveraineté […]. 
+Si la zone intéresse le Japon, la Chine et 
+l’Inde, elle est également l’objet d’une attention 
+particulière des États-Unis depuis 1945 […]. Le 
+détroit permet un déplacement rapide des forces 
+navales américaines entre l’océan Indien et le 
+Moyen-Orient […]. L’engorgement est tel qu’il a 
+ces dernières années poussé la Chine à sécuriser 
+ses échanges commerciaux en envisageant le 
+contournement du détroit de Malacca par les 
+« nouvelles routes de la Soie 1 » pour une partie 
+de ses approvisionnements. À une autre échelle, 
+la Thaïlande fait montre du même souci. En 
+2014, elle envisageait ainsi de s’affranchir du 
+détroit de Malacca en construisant le canal de 
+Kra dans la partie méridionale du pays, dont la 
+largeur est réduite à seulement 44 kilomètres. 
+Ce nouveau point de passage permettrait éga- 
+lement aux transporteurs de réduire leur trajet 
+de 1 200 kilomètres. ";12-1-0-2
+74;12;3;118.913;189.494;263.544;218.989;LTTextBoxHorizontal;"Lina Sankari, « Malacca : cœur 
+de toutes les rivalités en Asie du Sud-Est », 
+L’Humanité, 29 janvier 2016. ";12-1-0-1
+75;12;3;84.301;165.654;261.394;185.592;LTTextBoxHorizontal;"1. « Nouvelles routes de la Soie » : voies maritimes 
+développées par les autorités chinoises au XXIe siècle. ";12-1-0-0
+76;12;1;469.583;713.745;1051.486;1314.929;LTFigure;;12-0

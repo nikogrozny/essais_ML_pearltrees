@@ -1,0 +1,205 @@
+;page;depth;xmin;ymin;xmax;ymax;type;text;id
+0;9;0;0;0;653.622;852.047;LTPage;"
+    ";9
+1;9;1;76.163;371.749;254.854;385.749;LTTextLineHorizontal;;9-12
+2;9;2;76.163;371.749;254.854;385.749;LTTextBoxHorizontal;5 Les passages les plus fréquentés ;9-12-0
+3;9;1;90.679;362.313;173.332;373.313;LTTextLineHorizontal;;9-11
+4;9;2;90.679;362.313;173.332;373.313;LTTextBoxHorizontal;par les pétroliers ;9-11-0
+5;9;1;257.489;403.255;356.345;419.255;LTTextBoxHorizontal;"172531_th1_ch1_08_indien_eco 
+175 x 120 mm ";9-10
+6;9;1;553.447;47.52;564.567;57.52;LTTextLineHorizontal;;9-9
+7;9;2;553.447;47.52;564.567;57.52;LTTextBoxHorizontal;41 ;9-9-0
+8;9;1;13.976;71.078;29.173;277.228;LTImage;"
+      ";9-8
+9;9;2;13.976;71.078;29.173;277.228;LTFigure;;9-8-0
+10;9;1;13.989;334.683;30.174;533.196;LTImage;"
+      ";9-7
+11;9;2;13.989;334.683;30.174;533.196;LTFigure;;9-7-0
+12;9;1;66.557;429.903;564.921;766.781;LTRect;"
+      ";9-6
+13;9;2;66.557;429.903;564.921;766.781;LTRect;"
+        ";9-6-0
+14;9;3;66.557;429.903;564.921;766.781;LTRect;"
+          ";9-6-0-0
+15;9;4;79.467;726.72;128.882;734.72;LTTextLineHorizontal;;9-6-0-0-16
+16;9;5;79.467;726.72;128.882;734.72;LTTextBoxHorizontal;Canal de Suez ;9-6-0-0-16-0
+17;9;4;324.554;674.097;363.731;683.097;LTTextLineHorizontal;;9-6-0-0-15
+18;9;5;324.554;674.097;363.731;683.097;LTTextBoxHorizontal;MYANMAR ;9-6-0-0-15-0
+19;9;4;347.054;650.103;387.23;659.103;LTTextLineHorizontal;;9-6-0-0-14
+20;9;5;347.054;650.103;387.23;659.103;LTTextBoxHorizontal;THAÏLANDE ;9-6-0-0-14-0
+21;9;4;383.162;569.04;421.538;578.04;LTTextLineHorizontal;;9-6-0-0-13
+22;9;5;383.162;569.04;421.538;578.04;LTTextBoxHorizontal;INDONÉSIE ;9-6-0-0-13-0
+23;9;4;92.84;504.096;143.537;513.096;LTTextLineHorizontal;;9-6-0-0-12
+24;9;5;92.84;504.096;143.537;513.096;LTTextBoxHorizontal;MOZAMBIQUE ;9-6-0-0-12-0
+25;9;4;75.506;472.416;106.358;490.416;LTTextBoxHorizontal;"AFRIQUE 
+DU SUD ";9-6-0-0-11
+26;9;4;99.941;454.884;124.943;463.884;LTTextLineHorizontal;;9-6-0-0-10
+27;9;5;99.941;454.884;124.943;463.884;LTTextBoxHorizontal;Durban ;9-6-0-0-10-0
+28;9;4;72.11;431.376;159.525;439.376;LTTextLineHorizontal;;9-6-0-0-9
+29;9;5;72.11;431.376;159.525;439.376;LTTextBoxHorizontal;Cap de Bonne-Espérance ;9-6-0-0-9-0
+30;9;4;387.5;475.548;425.831;484.548;LTTextLineHorizontal;;9-6-0-0-8
+31;9;5;387.5;475.548;425.831;484.548;LTTextBoxHorizontal;AUSTRALIE ;9-6-0-0-8-0
+32;9;4;353.226;448.258;357.443;455.299;LTTextLineHorizontal;;9-6-0-0-7
+33;9;5;353.226;448.258;357.443;455.299;LTTextBoxHorizontal;N ;9-6-0-0-7-0
+34;9;4;327.2;436.894;331.04;444.894;LTTextLineHorizontal;;9-6-0-0-6
+35;9;5;327.2;436.894;331.04;444.894;LTTextBoxHorizontal;0 ;9-6-0-0-6-0
+36;9;4;366.832;436.894;395.36;444.894;LTTextLineHorizontal;;9-6-0-0-5
+37;9;5;366.832;436.894;395.36;444.894;LTTextBoxHorizontal;1 000 km ;9-6-0-0-5-0
+38;9;4;99.674;456.173;244.173;685.673;LTCurve;"
+            ";9-6-0-0-4
+39;9;5;153.119;639.376;227.865;657.087;LTTextBoxHorizontal;"YÉMEN 
+D. de Bab el-Mandeb ";9-6-0-0-4-9
+40;9;5;144.176;611.421;175.856;620.421;LTTextLineHorizontal;;9-6-0-0-4-8
+41;9;6;144.176;611.421;175.856;620.421;LTTextBoxHorizontal;SOMALIE ;9-6-0-0-4-8-0
+42;9;5;108.842;592.089;133.016;601.089;LTTextLineHorizontal;;9-6-0-0-4-7
+43;9;6;108.842;592.089;133.016;601.089;LTTextBoxHorizontal;KENYA ;9-6-0-0-4-7-0
+44;9;5;137.939;570.885;171.77;579.885;LTTextLineHorizontal;;9-6-0-0-4-6
+45;9;6;137.939;570.885;171.77;579.885;LTTextBoxHorizontal;Mombasa ;9-6-0-0-4-6-0
+46;9;5;103.505;561.426;139.361;570.426;LTTextLineHorizontal;;9-6-0-0-4-5
+47;9;6;103.505;561.426;139.361;570.426;LTTextBoxHorizontal;TANZANIE ;9-6-0-0-4-5-0
+48;9;5;191.273;562.884;233.753;571.884;LTTextLineHorizontal;;9-6-0-0-4-4
+49;9;6;191.273;562.884;233.753;571.884;LTTextBoxHorizontal;SEYCHELLES ;9-6-0-0-4-4-0
+50;9;5;102.381;530.04;149.25;546.04;LTTextBoxHorizontal;"Canal du 
+Mozambique ";9-6-0-0-4-3
+51;9;5;159.269;542.22;194.954;551.22;LTTextLineHorizontal;;9-6-0-0-4-2
+52;9;6;159.269;542.22;194.954;551.22;LTTextBoxHorizontal;COMORES ;9-6-0-0-4-2-0
+53;9;5;157.271;524.229;209.111;533.229;LTTextLineHorizontal;;9-6-0-0-4-1
+54;9;6;157.271;524.229;209.111;533.229;LTTextBoxHorizontal;MADAGASCAR ;9-6-0-0-4-1-0
+55;9;5;196.601;512.223;229.946;521.223;LTTextLineHorizontal;;9-6-0-0-4-0
+56;9;6;196.601;512.223;229.946;521.223;LTTextBoxHorizontal;MAURICE ;9-6-0-0-4-0-0
+57;9;4;245.173;512.673;402.173;653.173;LTCurve;"
+            ";9-6-0-0-3
+58;9;5;279.941;622.887;317.12;631.887;LTTextLineHorizontal;;9-6-0-0-3-4
+59;9;6;279.941;622.887;317.12;631.887;LTTextBoxHorizontal;SRI LANKA ;9-6-0-0-3-4-0
+60;9;5;337.009;611.34;373.329;627.34;LTTextBoxHorizontal;"Détroit de 
+ Malacca ";9-6-0-0-3-3
+61;9;5;322.47;555.492;358.79;571.492;LTTextBoxHorizontal;"Détroit de 
+la Sonde ";9-6-0-0-3-2
+62;9;5;265.46;547.998;303.619;558.998;LTTextLineHorizontal;;9-6-0-0-3-1
+63;9;6;265.46;547.998;303.619;558.998;LTTextBoxHorizontal;OCÉAN ;9-6-0-0-3-1-0
+64;9;5;265.955;530.002;303.113;541.002;LTTextLineHorizontal;;9-6-0-0-3-0
+65;9;6;265.955;530.002;303.113;541.002;LTTextBoxHorizontal;INDIEN ;9-6-0-0-3-0-0
+66;9;4;166.673;593.672;288.173;717.672;LTCurve;"
+            ";9-6-0-0-2
+67;9;5;225.275;694.212;252.275;703.212;LTTextLineHorizontal;;9-6-0-0-2-5
+68;9;6;225.275;694.212;252.275;703.212;LTTextBoxHorizontal;Gwadar ;9-6-0-0-2-5-0
+69;9;5;196.61;682.881;225.437;691.881;LTTextLineHorizontal;;9-6-0-0-2-4
+70;9;6;196.61;682.881;225.437;691.881;LTTextBoxHorizontal;Mascate ;9-6-0-0-2-4-0
+71;9;5;169.502;670.011;196.025;689.289;LTTextBoxHorizontal;"ÉAU 
+OMAN ";9-6-0-0-2-3
+72;9;5;264.389;680.1;281.408;689.1;LTTextLineHorizontal;;9-6-0-0-2-2
+73;9;6;264.389;680.1;281.408;689.1;LTTextBoxHorizontal;INDE ;9-6-0-0-2-2-0
+74;9;5;253.94;664.881;282.272;673.881;LTTextLineHorizontal;;9-6-0-0-2-1
+75;9;6;253.94;664.881;282.272;673.881;LTTextBoxHorizontal;Mumbai ;9-6-0-0-2-1-0
+76;9;5;212.603;602.88;248.774;611.88;LTTextLineHorizontal;;9-6-0-0-2-0
+77;9;6;212.603;602.88;248.774;611.88;LTTextBoxHorizontal;MALDIVES ;9-6-0-0-2-0-0
+78;9;4;150.344;697.709;216.687;762.409;LTCurve;"
+            ";9-6-0-0-1
+79;9;5;173.057;728.763;190.58;737.763;LTTextLineHorizontal;;9-6-0-0-1-1
+80;9;6;173.057;728.763;190.58;737.763;LTTextBoxHorizontal;IRAN ;9-6-0-0-1-1-0
+81;9;5;175.774;704.36;206.6;720.36;LTTextBoxHorizontal;"Détroit 
+d’Ormuz ";9-6-0-0-1-0
+82;9;4;430.33;429.903;564.921;766.781;LTRect;"
+            ";9-6-0-0-0
+83;9;5;436.505;740.87;550.742;760.87;LTTextBoxHorizontal;"1. Des situations économiques 
+variées (PIB, 2018) ";9-6-0-0-0-11
+84;9;5;462.425;713.944;556.841;730.44;LTTextBoxHorizontal;"PIB supérieur à 1 000 milliards 
+de dollars ";9-6-0-0-0-10
+85;9;5;462.425;690.698;560.057;707.194;LTTextBoxHorizontal;"PIB entre 250 et 1 000 milliards 
+de dollars ";9-6-0-0-0-9
+86;9;5;462.425;662.361;550.457;678.857;LTTextBoxHorizontal;"PIB entre 10 et 250 milliards 
+de dollars ";9-6-0-0-0-8
+87;9;5;462.425;636.361;544.433;652.857;LTTextBoxHorizontal;"PIB inférieur à 10 milliards 
+de dollars ";9-6-0-0-0-7
+88;9;5;462.425;589.774;549.777;597.774;LTTextLineHorizontal;;9-6-0-0-0-6
+89;9;6;462.425;589.774;549.777;597.774;LTTextBoxHorizontal;Principales routes maritimes ;9-6-0-0-0-6-0
+90;9;5;462.425;573.274;556.449;581.274;LTTextLineHorizontal;;9-6-0-0-0-5
+91;9;6;462.425;573.274;556.449;581.274;LTTextBoxHorizontal;Routes maritimes secondaires ;9-6-0-0-0-5-0
+92;9;5;462.425;538.818;518.825;546.818;LTTextLineHorizontal;;9-6-0-0-0-4
+93;9;6;462.425;538.818;518.825;546.818;LTTextBoxHorizontal;Zones de piraterie ;9-6-0-0-0-4-0
+94;9;5;462.425;495.233;538.393;503.233;LTTextLineHorizontal;;9-6-0-0-0-3
+95;9;6;462.425;495.233;538.393;503.233;LTTextBoxHorizontal;Ressources halieutiques ;9-6-0-0-0-3-0
+96;9;5;462.425;477.563;513.217;485.563;LTTextLineHorizontal;;9-6-0-0-0-2
+97;9;6;462.425;477.563;513.217;485.563;LTTextBoxHorizontal;Principaux ports ;9-6-0-0-0-2-0
+98;9;5;462.425;461.891;548.601;469.891;LTTextLineHorizontal;;9-6-0-0-0-1
+99;9;6;462.425;461.891;548.601;469.891;LTTextBoxHorizontal;Gisements d’hydrocarbures ;9-6-0-0-0-1-0
+100;9;5;437.945;431.62;497.276;438.62;LTTextLineHorizontal;;9-6-0-0-0-0
+101;9;6;437.945;431.62;497.276;438.62;LTTextBoxHorizontal;Sources diverses, 2020. ;9-6-0-0-0-0-0
+102;9;1;86.958;762.482;664.586;993.534;LTCurve;"
+      ";9-5
+103;9;2;575.535;771.509;597.693;780.354;LTTextLineHorizontal;;9-5-2
+104;9;3;575.535;771.509;597.693;780.354;LTTextBoxHorizontal;THÈME ;9-5-2-0
+105;9;2;602.205;771.651;606.132;780.496;LTTextLineHorizontal;;9-5-1
+106;9;3;602.205;771.651;606.132;780.496;LTTextBoxHorizontal;1 ;9-5-1-0
+107;9;2;505.646;770.603;561.024;788.914;LTCurve;"
+        ";9-5-0
+108;9;3;516.452;773.164;554.948;788.164;LTTextBoxHorizontal;"Carte 
+interactive ";9-5-0-0
+109;9;1;-40.008;595.76;664.584;993.536;LTCurve;"
+      ";9-4
+110;9;2;76.413;771.433;185.188;785.433;LTTextLineHorizontal;;9-4-1
+111;9;3;76.413;771.433;185.188;785.433;LTTextBoxHorizontal;4 Un océan marchand ;9-4-1-0
+112;9;2;15.0;837.047;653.622;852.047;LTFigure;"
+        ";9-4-0
+113;9;3;15.0;837.047;653.622;852.047;LTFigure;"
+          ";9-4-0-0
+114;9;4;15.0;837.047;653.622;852.047;LTFigure;;9-4-0-0-0
+115;9;1;333.584;48.442;537.64;56.586;LTTextLineHorizontal;;9-3
+116;9;2;333.584;48.442;537.64;56.586;LTTextBoxHorizontal;CHAPITRE 1 Mers et océans : au cœur de la mondialisation ;9-3-0
+117;9;1;279.768;64.161;570.888;399.441;LTRect;"
+      ";9-2
+118;9;2;281.139;207.93;294.8;224.695;LTTextLineHorizontal;;9-2-1
+119;9;3;281.139;207.93;294.8;224.695;LTTextBoxHorizontal;o u ;9-2-1-0
+120;9;2;285.991;70.505;564.567;393.217;LTCurve;"
+        ";9-2-0
+121;9;3;310.44;371.351;359.31;381.351;LTTextLineHorizontal;;9-2-0-13
+122;9;4;310.44;371.351;359.31;381.351;LTTextBoxHorizontal;Itinéraire 1 ;9-2-0-13-0
+123;9;3;306.934;338.375;540.76;362.684;LTTextBoxHorizontal;"Répondre aux questions 
+1 Expliquez le passage souligné dans le document 1 à l’aide ";9-2-0-12
+124;9;3;322.523;327.376;436.295;335.876;LTTextLineHorizontal;;9-2-0-11
+125;9;4;322.523;327.376;436.295;335.876;LTTextBoxHorizontal;des documents. doc. 1, 3, 4 et 5 ;9-2-0-11-0
+126;9;3;310.526;313.541;520.879;322.666;LTTextLineHorizontal;;9-2-0-10
+127;9;4;310.526;313.541;520.879;322.666;LTTextBoxHorizontal;2 Caractérisez la diversité des pays riverains de l’océan ;9-2-0-10-0
+128;9;3;322.523;302.542;383.662;311.042;LTTextLineHorizontal;;9-2-0-9
+129;9;4;322.523;302.542;383.662;311.042;LTTextBoxHorizontal;Indien. doc. 2 à 4 ;9-2-0-9-0
+130;9;3;310.526;288.706;544.39;297.832;LTTextLineHorizontal;;9-2-0-8
+131;9;4;310.526;288.706;544.39;297.832;LTTextBoxHorizontal;3 Expliquez pourquoi l’océan Indien est un espace d’intenses ;9-2-0-8-0
+132;9;3;322.523;277.707;445.092;286.207;LTTextLineHorizontal;;9-2-0-7
+133;9;4;322.523;277.707;445.092;286.207;LTTextBoxHorizontal;flux commerciaux. doc. 1, 3, 4 et 5 ;9-2-0-7-0
+134;9;3;306.934;246.202;542.63;270.511;LTTextBoxHorizontal;"Synthétiser 
+4 Analysez la place de l’océan Indien dans la mondialisation. ";9-2-0-6
+135;9;3;322.523;235.203;356.735;243.703;LTTextLineHorizontal;;9-2-0-5
+136;9;4;322.523;235.203;356.735;243.703;LTTextBoxHorizontal;doc. 1 à 5 ;9-2-0-5-0
+137;9;3;310.44;196.931;359.31;206.931;LTTextLineHorizontal;;9-2-0-4
+138;9;4;310.44;196.931;359.31;206.931;LTTextBoxHorizontal;Itinéraire 2 ;9-2-0-4-0
+139;9;3;306.687;164.303;546.923;188.611;LTTextBoxHorizontal;"Organiser l’information dans un tableau (1/2) 
+• À l’aide des documents 1 à 5, commencez à compléter le tableau ";9-2-0-3
+140;9;3;313.13;153.304;342.761;161.804;LTTextLineHorizontal;;9-2-0-2
+141;9;4;313.13;153.304;342.761;161.804;LTTextBoxHorizontal;suivant. ;9-2-0-2-0
+142;9;3;336.97;124.343;394.842;148.343;LTRect;"
+          ";9-2-0-1
+143;9;4;340.97;126.343;390.322;144.343;LTTextBoxHorizontal;"1. Un océan 
+mondialisé ";9-2-0-1-0
+144;9;3;486.188;124.343;555.813;148.343;LTRect;"
+          ";9-2-0-0
+145;9;4;490.186;126.343;554.034;144.343;LTTextBoxHorizontal;"3. Des formes de 
+coopération ";9-2-0-0-0
+146;9;1;279.768;399.441;850.656;463.602;LTFigure;;9-1
+147;9;1;65.03;71.809;263.455;358.109;LTCurve;"
+      ";9-0
+148;9;2;185.514;335.786;252.266;343.786;LTTextLineHorizontal;;9-0-7
+149;9;3;185.514;335.786;252.266;343.786;LTTextBoxHorizontal;Classement mondial ;9-0-7-0
+150;9;2;137.534;261.28;234.401;281.718;LTTextBoxHorizontal;"Détroit d’Ormuz 
+21 millions de barils/jour ";9-0-6
+151;9;2;120.982;202.467;226.534;212.949;LTTextLineHorizontal;;9-0-5
+152;9;3;120.982;202.467;226.534;212.949;LTTextBoxHorizontal;2e Détroit de Malacca ;9-0-5-0
+153;9;2;137.534;192.029;241.268;201.029;LTTextLineHorizontal;;9-0-4
+154;9;3;137.534;192.029;241.268;201.029;LTTextBoxHorizontal;17,5 millions de barils/jour ;9-0-4-0
+155;9;2;121.046;155.293;250.094;176.213;LTTextBoxHorizontal;"3e Cap de Bonne-Espérance 
+6,5 millions de barils/jour ";9-0-3
+156;9;2;121.051;128.996;203.504;139.478;LTTextLineHorizontal;;9-0-2
+157;9;3;121.051;128.996;203.504;139.478;LTTextBoxHorizontal;4e Canal de Suez ;9-0-2-0
+158;9;2;137.534;118.558;238.406;127.558;LTTextLineHorizontal;;9-0-1
+159;9;3;137.534;118.558;238.406;127.558;LTTextBoxHorizontal;6,5 millions de barils/jour ;9-0-1-0
+160;9;2;120.787;81.823;252.374;102.742;LTTextBoxHorizontal;"5e Détroit de Bab el-Mandeb 
+6 millions de barils/jour ";9-0-0

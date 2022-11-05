@@ -1,0 +1,111 @@
+;page;depth;xmin;ymin;xmax;ymax;type;text;id
+0;29;0;0;0;653.622;852.047;LTPage;"
+    ";29
+1;29;1;69.408;767.218;251.966;783.718;LTTextLineHorizontal;;29-15
+2;29;2;69.408;767.218;251.966;783.718;LTTextBoxHorizontal;3 Des espaces-ressources ;29-15-0
+3;29;1;65.173;679.362;422.164;760.862;LTTextBoxHorizontal;"◗● Les ressources maritimes sont d’abord halieutiques. Environ 80 millions de tonnes 
+de poissons sont pêchés en mer chaque année. Ce chiffre stagne depuis plusieurs années 
+en raison de la surexploitation et de l’épuisement des ressources. La Chine, l’Indonésie 
+et les États-Unis sont les trois principaux pays pour les captures. Le Pacifique regroupe la 
+moitié des captures marines dans le monde devant l’Atlantique (environ 20 %). Dans le 
+même temps, l’aquaculture marine ne cesse de se développer (30 millions de tonnes 
+par an), particulièrement en Asie. ";29-14
+4;29;1;65.173;589.695;422.341;671.193;LTTextBoxHorizontal;"◗● Les océans constituent un gisement majeur de ressources énergétiques. Les 
+hydrocarbures offshore représentent 1/3 de la production mondiale de pétrole et de gaz et 
+1/4 des réserves connues. Les progrès techniques récents permettent des forages de plus 
+en plus profonds dans de nombreuses zones d’exploitation (Arctique, golfe du Mexique, 
+Alaska, golfe de Guinée…). Les espaces maritimes offrent également des perspectives 
+de production d’énergies marines renouvelables (EMR) grâce aux vents, aux marées, 
+aux courants ou à la houle. ";29-13
+5;29;1;65.173;500.071;422.177;581.524;LTTextBoxHorizontal;"◗● D’autres ressources sont convoitées. C’est le cas du sable, très recherché dans 
+le secteur de la construction dans les pays émergents (Chine, Singapour, Dubaï), ou des 
+métaux précieux. La bioressource marine, d’origine animale ou végétale, est exploitée 
+dans de nombreuses industries (agroalimentaires, chimiques, cosmétiques…). Les bio- 
+technologies marines, liées à la biodiversité des mers et à leur préservation, devraient se 
+développer dans les prochaines années. 
+EXEMPLE Le sable marin, une ressource convoitée ";29-12
+6;29;1;68.397;487.803;239.015;495.863;LTTextLineHorizontal;;29-11
+7;29;2;68.397;487.803;239.015;495.863;LTTextBoxHorizontal;EXEMPLE Les ressources halieutiques marines ;29-11-0
+8;29;1;245.678;487.863;266.134;495.863;LTTextLineHorizontal;;29-10
+9;29;2;245.678;487.863;266.134;495.863;LTTextBoxHorizontal; p. 55 ;29-10-0
+10;29;1;449.523;496.675;528.556;550.62;LTTextBoxHorizontal;"Notions 
+◗◗ Maritimisation 
+◗◗ Puissance maritime 
+◗◗ Route maritime ";29-9
+11;29;1;275.554;47.299;355.582;65.299;LTTextBoxHorizontal;"172531_th1_ch1_18_schema 
+176 x 130 mm ";29-8
+12;29;1;553.447;47.52;564.567;57.52;LTTextLineHorizontal;;29-7
+13;29;2;553.447;47.52;564.567;57.52;LTTextBoxHorizontal;61 ;29-7-0
+14;29;1;15.0;837.047;653.622;852.047;LTFigure;"
+      ";29-6
+15;29;2;15.0;837.047;653.622;852.047;LTFigure;"
+        ";29-6-0
+16;29;3;15.0;837.047;653.622;852.047;LTFigure;;29-6-0-0
+17;29;1;65.423;71.943;564.105;439.947;LTRect;"
+      ";29-5
+18;29;2;381.61;71.943;564.105;291.294;LTRect;"
+        ";29-5-1
+19;29;3;413.657;252.621;531.689;270.621;LTTextBoxHorizontal;"Routes maritimes 
+et concentration de câbles sous-marins ";29-5-1-9
+20;29;3;413.657;238.445;498.065;246.445;LTTextLineHorizontal;;29-5-1-8
+21;29;4;413.657;238.445;498.065;246.445;LTTextBoxHorizontal;Nouvelles routes maritimes ;29-5-1-8-0
+22;29;3;413.657;222.269;479.833;230.269;LTTextLineHorizontal;;29-5-1-7
+23;29;4;413.657;222.269;479.833;230.269;LTTextBoxHorizontal;Passages stratégiques ;29-5-1-7-0
+24;29;3;413.657;188.479;460.745;196.479;LTTextLineHorizontal;;29-5-1-6
+25;29;4;413.657;188.479;460.745;196.479;LTTextBoxHorizontal;Zones de pêche ;29-5-1-6-0
+26;29;3;413.657;172.983;485.041;180.983;LTTextLineHorizontal;;29-5-1-5
+27;29;4;413.657;172.983;485.041;180.983;LTTextBoxHorizontal;Puissances halieutiques ;29-5-1-5-0
+28;29;3;413.657;157.487;497.913;165.487;LTTextLineHorizontal;;29-5-1-4
+29;29;4;413.657;157.487;497.913;165.487;LTTextBoxHorizontal;Gisements d’hydrocarbures ;29-5-1-4-0
+30;29;3;413.657;126.809;557.585;134.809;LTTextLineHorizontal;;29-5-1-3
+31;29;4;413.657;126.809;557.585;134.809;LTTextBoxHorizontal;Espaces productifs intégrés à la mondialisation ;29-5-1-3-0
+32;29;3;413.657;111.313;464.449;119.313;LTTextLineHorizontal;;29-5-1-2
+33;29;4;413.657;111.313;464.449;119.313;LTTextBoxHorizontal;Principaux ports ;29-5-1-2-0
+34;29;3;413.657;95.817;497.345;103.817;LTTextLineHorizontal;;29-5-1-1
+35;29;4;413.657;95.817;497.345;103.817;LTTextBoxHorizontal;Pays de construction navale ;29-5-1-1-0
+36;29;3;413.657;80.321;485.201;88.321;LTTextLineHorizontal;;29-5-1-0
+37;29;4;413.657;80.321;485.201;88.321;LTTextBoxHorizontal;Paradis ﬁscaux offshore ;29-5-1-0-0
+38;29;2;65.423;71.943;564.104;439.947;LTRect;"
+        ";29-5-0
+39;29;3;325.32;415.971;400.901;424.971;LTTextLineHorizontal;;29-5-0-3
+40;29;4;325.32;415.971;400.901;424.971;LTTextBoxHorizontal;OCÉAN PACIFIQUE ;29-5-0-3-0
+41;29;3;323.57;229.818;352.64;250.815;LTTextBoxHorizontal;"OCÉAN 
+INDIEN ";29-5-0-2
+42;29;3;78.118;250.556;353.35;419.126;LTCurve;"
+          ";29-5-0-1
+43;29;4;183.642;351.81;223.932;372.807;LTTextBoxHorizontal;"OCÉAN 
+ARCTIQUE ";29-5-0-1-3
+44;29;4;115.254;335.916;158.241;356.913;LTTextBoxHorizontal;"AMÉRIQUE 
+DU NORD ";29-5-0-1-2
+45;29;4;221.413;284.805;252.833;293.805;LTTextLineHorizontal;;29-5-0-1-1
+46;29;5;221.413;284.805;252.833;293.805;LTTextBoxHorizontal;EUROPE ;29-5-0-1-1-0
+47;29;4;123.848;251.874;176.401;272.871;LTTextBoxHorizontal;"OCÉAN 
+ATLANTIQUE ";29-5-0-1-0
+48;29;3;82.902;141.374;190.592;409.461;LTCurve;"
+          ";29-5-0-0
+49;29;4;92.339;190.845;135.326;211.842;LTTextBoxHorizontal;"AMÉRIQUE 
+DU SUD ";29-5-0-0-0
+50;29;1;442.181;610.999;565.488;758.399;LTCurve;"
+      ";29-4
+51;29;2;449.268;712.383;543.992;750.779;LTTextBoxHorizontal;"Répartition du transport 
+maritime international 
+par aire géographique 
+En % ";29-4-5
+52;29;2;487.376;699.937;510.36;707.937;LTTextLineHorizontal;;29-4-4
+53;29;3;487.376;699.937;510.36;707.937;LTTextBoxHorizontal;Europe ;29-4-4-0
+54;29;2;458.742;689.166;487.79;707.937;LTTextBoxHorizontal;"Asie 
+Océanie ";29-4-3
+55;29;2;525.425;689.166;559.081;707.937;LTTextBoxHorizontal;"Amériques 
+Afrique ";29-4-2
+56;29;2;484.267;621.784;558.402;627.284;LTTextLineHorizontal;;29-4-1
+57;29;3;484.267;621.784;558.402;627.284;LTTextBoxHorizontal;Source : UNCTAD, Review of ;29-4-1-0
+58;29;2;490.845;615.184;558.402;620.684;LTTextLineHorizontal;;29-4-0
+59;29;3;490.845;615.184;558.402;620.684;LTTextBoxHorizontal;Maritime Transport, 2018. ;29-4-0-0
+60;29;1;484.267;627.95;1043.143;1243.134;LTFigure;;29-3
+61;29;1;333.584;48.442;537.64;56.586;LTTextLineHorizontal;;29-2
+62;29;2;333.584;48.442;537.64;56.586;LTTextBoxHorizontal;CHAPITRE 1 Mers et océans : au cœur de la mondialisation ;29-2-0
+63;29;1;507.723;434.323;558.849;452.634;LTCurve;"
+      ";29-1
+64;29;2;518.529;436.885;552.753;451.885;LTTextBoxHorizontal;"Exercice 
+interactif ";29-1-0
+65;29;1;495.945;434.919;515.057;454.664;LTCurve;;29-0

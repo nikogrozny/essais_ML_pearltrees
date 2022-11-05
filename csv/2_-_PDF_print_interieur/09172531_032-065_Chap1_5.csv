@@ -1,0 +1,168 @@
+;page;depth;xmin;ymin;xmax;ymax;type;text;id
+0;5;0;0;0;653.622;852.047;LTPage;"
+    ";5
+1;5;1;76.413;771.362;302.272;785.362;LTTextLineHorizontal;;5-13
+2;5;2;76.413;771.362;302.272;785.362;LTTextBoxHorizontal;3 Un partage difficile malgré le droit de la mer ;5-13-0
+3;5;1;250.919;429.453;374.807;445.953;LTTextBoxHorizontal;"172531_th1_ch1_06_mer_chine_partage 
+176 x 110 mm ";5-12
+4;5;1;553.447;47.52;564.567;57.52;LTTextLineHorizontal;;5-11
+5;5;2;553.447;47.52;564.567;57.52;LTTextBoxHorizontal;37 ;5-11-0
+6;5;1;15.0;837.047;653.622;852.047;LTFigure;"
+      ";5-10
+7;5;2;15.0;837.047;653.622;852.047;LTFigure;"
+        ";5-10-0
+8;5;3;15.0;837.047;653.622;852.047;LTFigure;;5-10-0-0
+9;5;1;13.989;152.867;29.173;345.541;LTImage;"
+      ";5-9
+10;5;2;13.989;152.867;29.173;345.541;LTFigure;;5-9-0
+11;5;1;65.673;454.053;564.671;765.931;LTRect;"
+      ";5-8
+12;5;2;65.673;454.053;564.671;765.931;LTRect;"
+        ";5-8-0
+13;5;3;227.57;740.197;249.422;749.197;LTTextLineHorizontal;;5-8-0-24
+14;5;4;227.57;740.197;249.422;749.197;LTTextBoxHorizontal;CHINE ;5-8-0-24-0
+15;5;3;356.837;735.562;386.015;744.562;LTTextLineHorizontal;;5-8-0-23
+16;5;4;356.837;735.562;386.015;744.562;LTTextBoxHorizontal;TAÏWAN ;5-8-0-23-0
+17;5;3;68.918;722.332;108.095;731.332;LTTextLineHorizontal;;5-8-0-22
+18;5;4;68.918;722.332;108.095;731.332;LTTextBoxHorizontal;MYANMAR ;5-8-0-22-0
+19;5;3;437.097;740.072;545.844;760.072;LTTextBoxHorizontal;"1. Le droit international 
+en mer de Chine méridionale ";5-8-0-21
+20;5;3;465.518;715.624;532.582;732.624;LTTextBoxHorizontal;"ZEE (non validées 
+par les États riverains) ";5-8-0-20
+21;5;3;465.518;701.117;497.206;709.117;LTTextLineHorizontal;;5-8-0-19
+22;5;4;465.518;701.117;497.206;709.117;LTTextBoxHorizontal;Haute mer ;5-8-0-19-0
+23;5;3;465.518;683.624;530.358;691.624;LTTextLineHorizontal;;5-8-0-18
+24;5;4;465.518;683.624;530.358;691.624;LTTextBoxHorizontal;Détroits stratégiques ;5-8-0-18-0
+25;5;3;465.518;631.124;549.926;657.124;LTTextBoxHorizontal;"Revendications territoriales 
+chinoises, dites 
+« Ligne à neuf traits » ";5-8-0-17
+26;5;3;465.518;615.125;507.582;623.125;LTTextLineHorizontal;;5-8-0-16
+27;5;4;465.518;615.125;507.582;623.125;LTTextBoxHorizontal;Bases navales ;5-8-0-16-0
+28;5;3;465.518;588.621;550.342;605.621;LTTextBoxHorizontal;"Archipels revendiqués 
+et artiﬁcialisés illégalement ";5-8-0-15
+29;5;3;465.518;569.117;557.318;577.117;LTTextLineHorizontal;;5-8-0-14
+30;5;4;465.518;569.117;557.318;577.117;LTTextBoxHorizontal;Tensions avec les pays voisins ;5-8-0-14-0
+31;5;3;434.859;533.072;544.565;553.072;LTTextBoxHorizontal;"3. Revendications des autres 
+Davao 
+pays riverains ";5-8-0-13
+32;5;3;465.518;519.37;490.99;527.37;LTTextLineHorizontal;;5-8-0-12
+33;5;4;465.518;519.37;490.99;527.37;LTTextBoxHorizontal;Malaisie ;5-8-0-12-0
+34;5;3;465.518;504.869;485.078;512.869;LTTextLineHorizontal;;5-8-0-11
+35;5;4;465.518;504.869;485.078;512.869;LTTextBoxHorizontal;Brunei ;5-8-0-11-0
+36;5;3;465.518;489.869;498.39;497.869;LTTextLineHorizontal;;5-8-0-10
+37;5;4;465.518;489.869;498.39;497.869;LTTextBoxHorizontal;Philippines ;5-8-0-10-0
+38;5;3;465.518;474.685;494.71;482.685;LTTextLineHorizontal;;5-8-0-9
+39;5;4;465.518;474.685;494.71;482.685;LTTextBoxHorizontal;Indonésie ;5-8-0-9-0
+40;5;3;465.518;460.685;490.846;468.685;LTTextLineHorizontal;;5-8-0-8
+41;5;4;465.518;460.685;490.846;468.685;LTTextBoxHorizontal;Vietnam ;5-8-0-8-0
+42;5;3;363.318;476.983;367.535;484.023;LTTextLineHorizontal;;5-8-0-7
+43;5;4;363.318;476.983;367.535;484.023;LTTextBoxHorizontal;N ;5-8-0-7-0
+44;5;3;386.332;464.069;406.254;471.069;LTTextLineHorizontal;;5-8-0-6
+45;5;4;386.332;464.069;406.254;471.069;LTTextBoxHorizontal;500 km ;5-8-0-6-0
+46;5;3;91.765;457.812;132.301;466.812;LTTextLineHorizontal;;5-8-0-5
+47;5;4;91.765;457.812;132.301;466.812;LTTextBoxHorizontal;INDONÉSIE ;5-8-0-5-0
+48;5;3;160.462;455.537;219.794;462.537;LTTextLineHorizontal;;5-8-0-4
+49;5;4;160.462;455.537;219.794;462.537;LTTextBoxHorizontal;Sources diverses, 2020. ;5-8-0-4-0
+50;5;3;279.766;457.812;320.302;466.812;LTTextLineHorizontal;;5-8-0-3
+51;5;4;279.766;457.812;320.302;466.812;LTTextBoxHorizontal;INDONÉSIE ;5-8-0-3-0
+52;5;3;354.188;604.829;413.342;683.629;LTCurve;;5-8-0-2
+53;5;3;358.189;722.569;381.073;762.318;LTCurve;;5-8-0-1
+54;5;3;181.724;502.758;394.201;738.862;LTCurve;"
+          ";5-8-0-0
+55;5;4;225.265;533.812;320.265;675.562;LTCurve;"
+            ";5-8-0-0-2
+56;5;5;232.652;601.953;281.408;652.593;LTTextBoxHorizontal;"Îles Paracels 
+Mer 
+de 
+Chine 
+méridionale ";5-8-0-0-2-0
+57;5;4;213.456;680.387;244.862;703.698;LTCurve;;5-8-0-0-1
+58;5;4;272.015;529.062;393.765;714.562;LTCurve;"
+            ";5-8-0-0-0
+59;5;5;291.437;648.004;343.083;666.036;LTTextBoxHorizontal;"Atoll de 
+Scarborough ";5-8-0-0-0-1
+60;5;5;274.519;586.101;328.072;595.117;LTTextLineHorizontal;;5-8-0-0-0-0
+61;5;6;274.519;586.101;328.072;595.117;LTTextBoxHorizontal;Îles Spratleys ;5-8-0-0-0-0-0
+62;5;1;26.985;382.876;171.568;543.308;LTCurve;;5-7
+63;5;1;575.535;771.509;597.693;780.354;LTTextLineHorizontal;;5-6
+64;5;2;575.535;771.509;597.693;780.354;LTTextBoxHorizontal;THÈME ;5-6-0
+65;5;1;602.205;771.651;606.132;780.496;LTTextLineHorizontal;;5-5
+66;5;2;602.205;771.651;606.132;780.496;LTTextBoxHorizontal;1 ;5-5-0
+67;5;1;333.584;48.442;537.64;56.586;LTTextLineHorizontal;;5-4
+68;5;2;333.584;48.442;537.64;56.586;LTTextBoxHorizontal;CHAPITRE 1 Mers et océans : au cœur de la mondialisation ;5-4-0
+69;5;1;66.173;72.693;291.937;432.05;LTCurve;"
+      ";5-3
+70;5;2;66.173;72.693;291.937;432.05;LTCurve;"
+        ";5-3-0
+71;5;3;78.163;409.694;220.498;423.694;LTTextLineHorizontal;;5-3-0-4
+72;5;4;78.163;409.694;220.498;423.694;LTTextBoxHorizontal;4 L’arbitrage entre la Chine ;5-3-0-4-0
+73;5;3;92.679;399.699;176.422;410.699;LTTextLineHorizontal;;5-3-0-3
+74;5;4;92.679;399.699;176.422;410.699;LTTextBoxHorizontal;et les Philippines ;5-3-0-3-0
+75;5;3;75.029;357.594;286.705;391.594;LTTextBoxHorizontal;"Pour dénoncer l’occupation d’îlots par la Chine, les 
+Philippines ont saisi le Tribunal international du droit 
+de la mer en 2016. ";5-3-0-2
+76;5;3;75.029;123.924;286.721;352.764;LTTextBoxHorizontal;"Le droit international a joué un rôle politique non 
+négligeable en mer de Chine méridionale. Sous la prési- 
+dence de Benigno Aquino (2010-2016), les Philippines 
+prennent l’initiative d’aller à l’arbitrage, une option prévue 
+par l’annexe VII de la Convention des Nations unies sur 
+le droit de la mer1. La Chine refuse d’accepter une pro- 
+cédure qu’elle juge « introduite unilatéralement par les 
+Philippines » et ne participe pas à son déroulement […]. 
+La sentence rendue en juillet 2016 donne raison aux 
+Philippines point par point en invalidant toute l’argu- 
+mentation chinoise construite autour de la notion de 
+« droits historiques ». Le tribunal juge qu’aucun élément 
+dans les Spratleys n’est une « île » au sens légal du terme, 
+c’est-à-dire au sens de territoire donnant lieu à une zone 
+économique exclusive […]. Enfin, la sentence qualifie de 
+hors-la-loi des pans entiers de la politique chinoise en 
+mer de Chine méridionale : la construction d’îles artifi- 
+cielles manque ainsi aux obligations légales de la Chine 
+en matière de protection de l’environnement maritime. ";5-3-0-1
+77;5;3;75.029;84.461;286.367;116.795;LTTextBoxHorizontal;"Mathieu Duchâtel, Géopolitique de la Chine, PUF, 
+coll. « Que sais-je ? », 2019. 
+1. Convention (1982) qui fixe le droit international de la mer. ";5-3-0-0
+78;5;1;306.643;65.503;571.123;426.943;LTRect;"
+      ";5-2
+79;5;2;308.015;207.58;321.676;224.345;LTTextLineHorizontal;;5-2-1
+80;5;3;308.015;207.58;321.676;224.345;LTTextBoxHorizontal;o u ;5-2-1-0
+81;5;2;312.866;71.693;564.921;420.72;LTCurve;"
+        ";5-2-0
+82;5;3;337.315;398.854;386.185;408.854;LTTextLineHorizontal;;5-2-0-12
+83;5;4;337.315;398.854;386.185;408.854;LTTextBoxHorizontal;Itinéraire 1 ;5-2-0-12-0
+84;5;3;333.809;379.187;448.814;390.187;LTTextLineHorizontal;;5-2-0-11
+85;5;4;333.809;379.187;448.814;390.187;LTTextBoxHorizontal;Répondre aux questions ;5-2-0-11-0
+86;5;3;337.402;363.043;521.158;372.169;LTTextLineHorizontal;;5-2-0-10
+87;5;4;337.402;363.043;521.158;372.169;LTTextBoxHorizontal;1 Citez les États impliqués dans la revendication ;5-2-0-10-0
+88;5;3;349.398;330.046;547.278;360.544;LTTextBoxHorizontal;"d’une souveraineté sur les eaux de la mer de Chine 
+méridionale et localisez les espaces de conflictualités. 
+doc. 1 à 4 ";5-2-0-9
+89;5;3;337.402;305.21;540.316;325.334;LTTextBoxHorizontal;"2 Montrez que la Chine est au cœur des contestations 
+territoriales en mer de Chine méridionale. doc.1 à 4 ";5-2-0-8
+90;5;3;337.401;291.374;517.86;300.5;LTTextLineHorizontal;;5-2-0-7
+91;5;4;337.401;291.374;517.86;300.5;LTTextBoxHorizontal;3 Justifiez la décision du Tribunal international ;5-2-0-7-0
+92;5;3;333.809;248.87;548.077;273.179;LTTextBoxHorizontal;"Synthétiser 
+4 Décrivez les revendications actuelles en mer de Chine ";5-2-0-6
+93;5;3;337.315;198.991;386.185;208.991;LTTextLineHorizontal;;5-2-0-5
+94;5;4;337.315;198.991;386.185;208.991;LTTextBoxHorizontal;Itinéraire 2 ;5-2-0-5-0
+95;5;3;333.562;167.991;527.49;192.299;LTTextBoxHorizontal;"Présenter un exposé oral (1/2) 
+• Réalisez un exposé oral sur les rivalités et les enjeux ";5-2-0-4
+96;5;3;340.005;156.992;503.894;165.492;LTTextLineHorizontal;;5-2-0-3
+97;5;4;340.005;156.992;503.894;165.492;LTTextBoxHorizontal;contemporains en mer de Chine méridionale. ;5-2-0-3-0
+98;5;3;333.562;143.154;499.219;151.654;LTTextLineHorizontal;;5-2-0-2
+99;5;4;333.562;143.154;499.219;151.654;LTTextBoxHorizontal;• Structurez votre propos selon le plan suivant, ;5-2-0-2-0
+100;5;3;340.005;88.156;528.578;140.655;LTTextBoxHorizontal;"en faisant référence aux documents de l’étude de cas 
+et en effectuant des recherches sur Internet : 
+– introduction : localisation de la mer de Chine 
+– 1re partie : revendications et territorialisation 
+– 2e et 3e parties : voir p. 39 ";5-2-0-1
+101;5;3;500.534;202.437;553.441;219.556;LTCurve;"
+          ";5-2-0-0
+102;5;4;512.586;203.79;543.97;218.79;LTTextBoxHorizontal;"Aide et 
+méthode ";5-2-0-0-0
+103;5;1;306.643;426.943;877.766;492.446;LTFigure;;5-1
+104;5;1;507.895;770.603;563.273;788.914;LTCurve;"
+      ";5-0
+105;5;2;518.701;773.164;557.197;788.164;LTTextBoxHorizontal;"Carte 
+interactive ";5-0-0

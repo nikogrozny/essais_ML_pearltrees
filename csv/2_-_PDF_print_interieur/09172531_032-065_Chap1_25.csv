@@ -1,0 +1,145 @@
+;page;depth;xmin;ymin;xmax;ymax;type;text;id
+0;25;0;0;0;653.622;852.047;LTPage;"
+    ";25
+1;25;1;-517.913;720.433;-31.278;751.433;LTTextLineHorizontal;;25-9
+2;25;2;-517.913;720.433;-31.278;751.433;LTTextBoxHorizontal;Mers et océans : vecteurs essentiels de la ;25-9-0
+3;25;1;60.082;720.433;229.869;751.433;LTTextLineHorizontal;;25-8
+4;25;2;60.082;720.433;229.869;751.433;LTTextBoxHorizontal;mondialisation ;25-8-0
+5;25;1;-23.205;41.845;196.512;59.848;LTTextBoxHorizontal;"172531_th1_ch1_16_mondialisation 
+Format : 310 x 225 mm – pli à 130 mm du bord gauche de la carte ";25-7
+6;25;1;553.447;47.52;564.567;57.52;LTTextLineHorizontal;;25-6
+7;25;2;553.447;47.52;564.567;57.52;LTTextBoxHorizontal;57 ;25-6-0
+8;25;1;15.0;837.047;653.622;852.047;LTFigure;"
+      ";25-5
+9;25;2;15.0;837.047;653.622;852.047;LTFigure;"
+        ";25-5-0
+10;25;3;15.0;837.047;653.622;852.047;LTFigure;;25-5-0-0
+11;25;1;-314.173;71.943;564.671;705.459;LTRect;"
+      ";25-4
+12;25;2;-278.045;161.309;-96.455;171.309;LTTextLineHorizontal;;25-4-6
+13;25;3;-278.045;161.309;-96.455;171.309;LTTextBoxHorizontal;1. Des espaces de circulation et d’échanges ;25-4-6-0
+14;25;2;-242.785;143.08;-149.719;151.58;LTTextLineHorizontal;;25-4-5
+15;25;3;-242.785;143.08;-149.719;151.58;LTTextBoxHorizontal;Principales routes maritimes ;25-4-5-0
+16;25;2;-242.785;123.08;-144.67;131.58;LTTextLineHorizontal;;25-4-4
+17;25;3;-242.785;123.08;-144.67;131.58;LTTextBoxHorizontal;Routes maritimes secondaires ;25-4-4-0
+18;25;2;-242.785;103.173;-82.56;111.673;LTTextLineHorizontal;;25-4-3
+19;25;3;-242.785;103.173;-82.56;111.673;LTTextBoxHorizontal;Nouvelles routes maritimes, en voie d’ouverture ;25-4-3-0
+20;25;2;-242.785;83.079;-168.181;91.579;LTTextLineHorizontal;;25-4-2
+21;25;3;-242.785;83.079;-168.181;91.579;LTTextBoxHorizontal;Passages stratégiques ;25-4-2-0
+22;25;2;15.0;71.943;564.671;705.458;LTRect;"
+        ";25-4-1
+23;25;3;120.691;652.786;147.116;666.786;LTTextBoxHorizontal;"Détroit de 
+Béring ";25-4-1-12
+24;25;3;108.215;142.08;198.519;150.58;LTTextLineHorizontal;;25-4-1-11
+25;25;4;108.215;142.08;198.519;150.58;LTTextBoxHorizontal;Principales zones de pêche ;25-4-1-11-0
+26;25;3;344.215;142.08;539.596;150.58;LTTextLineHorizontal;;25-4-1-10
+27;25;4;344.215;142.08;539.596;150.58;LTTextBoxHorizontal;Principaux espaces productifs intégrés à la mondialisation ;25-4-1-10-0
+28;25;3;73.838;123.508;100.429;134.508;LTTextLineHorizontal;;25-4-1-9
+29;25;4;73.838;123.508;100.429;134.508;LTTextBoxHorizontal;CHINE ;25-4-1-9-0
+30;25;3;108.215;125.58;223.602;134.08;LTTextLineHorizontal;;25-4-1-8
+31;25;4;108.215;125.58;223.602;134.08;LTTextBoxHorizontal;Principales puissances halieutiques ;25-4-1-8-0
+32;25;3;344.215;125.247;542.622;133.747;LTTextLineHorizontal;;25-4-1-7
+33;25;4;344.215;125.247;542.622;133.747;LTTextBoxHorizontal;Principaux ports de conteneurs (+ de 20 millions d’EVP/an) ;25-4-1-7-0
+34;25;3;108.215;97.989;192.552;115.992;LTTextBoxHorizontal;"Principaux gisements 
+d’hydrocarbures offshore ";25-4-1-6
+35;25;3;344.215;108.417;446.019;116.917;LTTextLineHorizontal;;25-4-1-5
+36;25;4;344.215;108.417;446.019;116.917;LTTextBoxHorizontal;Principales façades maritimes ;25-4-1-5-0
+37;25;3;344.215;91.587;474.588;100.087;LTTextLineHorizontal;;25-4-1-4
+38;25;4;344.215;91.587;474.588;100.087;LTTextBoxHorizontal;Principaux pays de construction navale ;25-4-1-4-0
+39;25;3;344.235;74.503;426.892;83.512;LTTextLineHorizontal;;25-4-1-3
+40;25;4;344.235;74.503;426.892;83.512;LTTextBoxHorizontal;Paradis ﬁscaux offshore ;25-4-1-3-0
+41;25;3;29.3;198.592;265.966;437.925;LTCurve;"
+          ";25-4-1-2
+42;25;4;45.308;417.382;76.92;431.382;LTTextBoxHorizontal;"Détroit 
+de Gibraltar ";25-4-1-2-1
+43;25;4;186.575;253.24;221.183;274.24;LTTextBoxHorizontal;"Canal 
+du 
+Mozambique ";25-4-1-2-0
+44;25;3;285.967;360.258;492.967;611.258;LTCurve;"
+          ";25-4-1-1
+45;25;4;302.466;573.984;355.116;583.984;LTTextLineHorizontal;;25-4-1-1-6
+46;25;5;302.466;573.984;355.116;583.984;LTTextBoxHorizontal;CORÉE DU SUD ;25-4-1-1-6-0
+47;25;4;392.286;577.185;445.531;603.383;LTTextBoxHorizontal;"OCÉAN 
+PACIFIQUE ";25-4-1-1-5
+48;25;4;311.098;549.265;341.604;557.765;LTTextLineHorizontal;;25-4-1-1-4
+49;25;5;311.098;549.265;341.604;557.765;LTTextBoxHorizontal;Shanghai ;25-4-1-1-4-0
+50;25;4;315.747;540.204;374.414;548.704;LTTextLineHorizontal;;25-4-1-1-3
+51;25;5;315.747;540.204;374.414;548.704;LTTextBoxHorizontal;Ningbo-Zhoushan ;25-4-1-1-3-0
+52;25;4;321.74;521.64;359.438;538.963;LTTextBoxHorizontal;"Kaohsiung 
+Guangzhou ";25-4-1-1-2
+53;25;4;352.68;440.933;385.941;449.433;LTTextLineHorizontal;;25-4-1-1-1
+54;25;5;352.68;440.933;385.941;449.433;LTTextBoxHorizontal;Singapour ;25-4-1-1-1-0
+55;25;4;358.082;410.943;384.507;424.943;LTTextBoxHorizontal;"Détroit de 
+la Sonde ";25-4-1-1-0
+56;25;3;39.882;214.006;347.303;654.094;LTCurve;"
+          ";25-4-1-0
+57;25;4;48.316;628.314;79.321;638.314;LTTextLineHorizontal;;25-4-1-0-5
+58;25;5;48.316;628.314;79.321;638.314;LTTextBoxHorizontal;CANADA ;25-4-1-0-5-0
+59;25;4;102.242;583.735;153.632;609.933;LTTextBoxHorizontal;"OCÉAN 
+ARCTIQUE ";25-4-1-0-4
+60;25;4;65.788;481.707;100.459;490.207;LTTextLineHorizontal;;25-4-1-0-3
+61;25;5;65.788;481.707;100.459;490.207;LTTextBoxHorizontal;Rotterdam ;25-4-1-0-3-0
+62;25;4;310.349;356.818;345.224;367.298;LTTextLineHorizontal;;25-4-1-0-2
+63;25;5;310.349;356.818;345.224;367.298;LTTextBoxHorizontal;INDIEN ;25-4-1-0-2-0
+64;25;4;68.634;364.591;347.3;552.258;LTCurve;"
+            ";25-4-1-0-1
+65;25;5;74.186;489.357;108.619;497.857;LTTextLineHorizontal;;25-4-1-0-1-12
+66;25;6;74.186;489.357;108.619;497.857;LTTextBoxHorizontal;Hambourg ;25-4-1-0-1-12-0
+67;25;5;179.237;518.173;210.046;529.173;LTTextLineHorizontal;;25-4-1-0-1-11
+68;25;6;179.237;518.173;210.046;529.173;LTTextBoxHorizontal;RUSSIE ;25-4-1-0-1-11-0
+69;25;5;252.482;541.36;274.556;549.86;LTTextLineHorizontal;;25-4-1-0-1-10
+70;25;6;252.482;541.36;274.556;549.86;LTTextBoxHorizontal;Tianjin ;25-4-1-0-1-10-0
+71;25;5;278.041;533.192;302.861;541.692;LTTextLineHorizontal;;25-4-1-0-1-9
+72;25;6;278.041;533.192;302.861;541.692;LTTextBoxHorizontal;Xiamen ;25-4-1-0-1-9-0
+73;25;5;271.445;510.046;308.871;528.712;LTTextBoxHorizontal;"Shenzhen 
+Hong Kong ";25-4-1-0-1-8
+74;25;5;251.838;494.174;278.429;505.174;LTTextLineHorizontal;;25-4-1-0-1-7
+75;25;6;251.838;494.174;278.429;505.174;LTTextBoxHorizontal;CHINE ;25-4-1-0-1-7-0
+76;25;5;287.823;467.004;327.999;477.004;LTTextLineHorizontal;;25-4-1-0-1-6
+77;25;6;287.823;467.004;327.999;477.004;LTTextBoxHorizontal;THAÏLANDE ;25-4-1-0-1-6-0
+78;25;5;274.021;408.446;303.499;416.946;LTTextLineHorizontal;;25-4-1-0-1-5
+79;25;6;274.021;408.446;303.499;416.946;LTTextBoxHorizontal;Colombo ;25-4-1-0-1-5-0
+80;25;5;319.085;422.479;345.51;436.479;LTTextBoxHorizontal;"Détroit de 
+Malacca ";25-4-1-0-1-4
+81;25;5;223.565;404.357;242.792;412.857;LTTextLineHorizontal;;25-4-1-0-1-3
+82;25;6;223.565;404.357;242.792;412.857;LTTextBoxHorizontal;Dubaï ;25-4-1-0-1-3-0
+83;25;5;308.316;372.537;347.267;383.016;LTTextLineHorizontal;;25-4-1-0-1-2
+84;25;6;308.316;372.537;347.267;383.016;LTTextBoxHorizontal;OCÉAN ;25-4-1-0-1-2-0
+85;25;5;150.182;423.468;188.166;445.24;LTCurve;"
+              ";25-4-1-0-1-1
+86;25;6;159.674;428.142;186.365;442.142;LTTextBoxHorizontal;"Détroit du 
+Bosphore ";25-4-1-0-1-1-0
+87;25;5;186.714;416.761;237.535;449.599;LTCurve;"
+              ";25-4-1-0-1-0
+88;25;6;208.835;420.365;231.389;434.365;LTTextBoxHorizontal;"Détroit 
+d’Ormuz ";25-4-1-0-1-0-0
+89;25;4;229.83;464.22;315.815;598.101;LTCurve;"
+            ";25-4-1-0-0
+90;25;5;266.169;574.153;289.515;597.434;LTTextBoxHorizontal;"JAPON 
+Busan ";25-4-1-0-0-0
+91;25;2;-308.953;179.77;558.907;699.203;LTCurve;"
+        ";25-4-0
+92;25;3;-187.863;563.601;-148.912;574.081;LTTextLineHorizontal;;25-4-0-2
+93;25;4;-187.863;563.601;-148.912;574.081;LTTextBoxHorizontal;OCÉAN ;25-4-0-2-0
+94;25;3;-195.01;547.883;-141.765;558.362;LTTextLineHorizontal;;25-4-0-1
+95;25;4;-195.01;547.883;-141.765;558.362;LTTextBoxHorizontal;PACIFIQUE ;25-4-0-1-0
+96;25;3;-97.366;454.591;291.967;631.258;LTCurve;"
+          ";25-4-0-0
+97;25;4;-35.9;585.174;-5.834;596.174;LTTextLineHorizontal;;25-4-0-0-3
+98;25;5;-35.9;585.174;-5.834;596.174;LTTextBoxHorizontal;ÉTATS- ;25-4-0-0-3-0
+99;25;4;-31.405;573.173;-10.318;584.173;LTTextLineHorizontal;;25-4-0-0-2
+100;25;5;-31.405;573.173;-10.318;584.173;LTTextBoxHorizontal;UNIS ;25-4-0-0-2-0
+101;25;4;-32.583;533.94;-0.359;542.44;LTTextLineHorizontal;;25-4-0-0-1
+102;25;5;-32.583;533.94;-0.359;542.44;LTTextBoxHorizontal;New York ;25-4-0-0-1-0
+103;25;4;-41.964;464.683;12.873;485.311;LTTextBoxHorizontal;"OCÉAN 
+ATLANTIQUE ";25-4-0-0-0
+104;25;1;575.535;771.509;597.693;780.354;LTTextLineHorizontal;;25-3
+105;25;2;575.535;771.509;597.693;780.354;LTTextBoxHorizontal;THÈME ;25-3-0
+106;25;1;602.205;771.651;606.132;780.496;LTTextLineHorizontal;;25-2
+107;25;2;602.205;771.651;606.132;780.496;LTTextBoxHorizontal;1 ;25-2-0
+108;25;1;333.584;48.442;537.64;56.586;LTTextLineHorizontal;;25-1
+109;25;2;333.584;48.442;537.64;56.586;LTTextBoxHorizontal;CHAPITRE 1 Mers et océans : au cœur de la mondialisation ;25-1-0
+110;25;1;486.937;689.797;542.315;708.108;LTCurve;"
+      ";25-0
+111;25;2;497.743;692.359;536.239;707.359;LTTextBoxHorizontal;"Carte 
+interactive ";25-0-0

@@ -1,0 +1,92 @@
+;page;depth;xmin;ymin;xmax;ymax;type;text;id
+0;8;0;0;0;653.622;852.047;LTPage;"
+    ";8
+1;8;1;77.717;659.992;376.688;741.996;LTTextBoxHorizontal;"L’océan Indien : 
+rivalités régionales 
+et coopérations internationales ";8-14
+2;8;1;80.624;545.375;350.968;569.375;LTTextLineHorizontal;;8-13
+3;8;2;80.624;545.375;350.968;569.375;LTTextBoxHorizontal;A Un océan dans la mondialisation ;8-13-0
+4;8;1;288.699;130.226;307.899;144.226;LTTextLineHorizontal;;8-12
+5;8;2;288.699;130.226;307.899;144.226;LTTextBoxHorizontal;3 ;8-12-0
+6;8;1;90.319;70.778;298.934;125.46;LTTextBoxHorizontal;"Port Réunion (France) : 
+un carrefour marchand dans l’océan Indien 
+Port Réunion concentre un trafic annuel 
+ de marchandises de 5,5 millions de tonnes. 
+Brochure, 2018. ";8-11
+7;8;1;77.362;47.52;88.482;57.52;LTTextLineHorizontal;;8-10
+8;8;2;77.362;47.52;88.482;57.52;LTTextBoxHorizontal;40 ;8-10-0
+9;8;1;316.293;314.385;525.839;328.385;LTTextLineHorizontal;;8-9
+10;8;2;316.293;314.385;525.839;328.385;LTTextBoxHorizontal;2 Le tourisme insulaire dans l’océan Indien ;8-9-0
+11;8;1;332.232;293.701;560.059;311.701;LTTextBoxHorizontal;"L’Eden Island Luxury Accomodation à Mahé, l’île principale 
+des Seychelles, 2019. ";8-8
+12;8;1;15.0;837.047;653.622;852.047;LTFigure;"
+      ";8-7
+13;8;2;15.0;837.047;653.622;852.047;LTFigure;;8-7-0
+14;8;1;305.303;71.078;624.449;277.228;LTImage;"
+      ";8-6
+15;8;2;305.303;71.078;624.449;277.228;LTFigure;;8-6-0
+16;8;1;305.303;334.683;625.45;533.196;LTImage;"
+      ";8-5
+17;8;2;305.303;334.683;625.45;533.196;LTFigure;;8-5-0
+18;8;1;77.772;591.115;408.202;637.792;LTRect;"
+      ";8-4
+19;8;2;99.032;599.717;375.713;626.717;LTTextBoxHorizontal;"Pour quelles raisons l’océan Indien est-il un espace 
+de rivalités et de coopération à différentes échelles ? ";8-4-0
+20;8;1;394.638;708.977;594.318;801.377;LTRect;"
+      ";8-3
+21;8;2;400.941;715.157;588.028;795.153;LTRect;"
+        ";8-3-0
+22;8;3;411.713;778.89;485.831;789.89;LTTextLineHorizontal;;8-3-0-7
+23;8;4;411.713;778.89;485.831;789.89;LTTextBoxHorizontal;Zoom sur… ;8-3-0-7-0
+24;8;3;411.56;760.208;510.12;770.208;LTTextLineHorizontal;;8-3-0-6
+25;8;4;411.56;760.208;510.12;770.208;LTTextBoxHorizontal; L’océan Indien (2020) ;8-3-0-6-0
+26;8;3;405.193;746.706;436.453;754.206;LTTextLineHorizontal;;8-3-0-5
+27;8;4;405.193;746.706;436.453;754.206;LTTextBoxHorizontal;Superficie ;8-3-0-5-0
+28;8;3;507.035;746.706;559.558;754.206;LTTextLineHorizontal;;8-3-0-4
+29;8;4;507.035;746.706;559.558;754.206;LTTextBoxHorizontal;70 millions de km² ;8-3-0-4-0
+30;8;3;405.193;735.411;485.346;742.911;LTTextLineHorizontal;;8-3-0-3
+31;8;4;405.193;735.411;485.346;742.911;LTTextBoxHorizontal;Nombre de pays riverains ;8-3-0-3-0
+32;8;3;507.035;735.411;514.236;742.911;LTTextLineHorizontal;;8-3-0-2
+33;8;4;507.035;735.411;514.236;742.911;LTTextBoxHorizontal;25 ;8-3-0-2-0
+34;8;3;405.193;720.118;486.553;727.618;LTTextLineHorizontal;;8-3-0-1
+35;8;4;405.193;720.118;486.553;727.618;LTTextBoxHorizontal;Population riveraine (est.) ;8-3-0-1-0
+36;8;3;507.035;716.113;584.045;731.616;LTTextBoxHorizontal;"2,7 milliards d’hab. 
+(33 % de la pop. mondiale) ";8-3-0-0
+37;8;1;394.638;801.377;988.956;1510.354;LTFigure;;8-2
+38;8;1;78.079;161.698;281.626;531.046;LTCurve;"
+      ";8-1
+39;8;2;78.079;161.698;281.626;531.046;LTCurve;"
+        ";8-1-0
+40;8;3;90.069;498.695;222.185;522.69;LTTextBoxHorizontal;"1 Le commerce maritime 
+dans l’océan Indien ";8-1-0-3
+41;8;3;86.937;350.106;276.437;492.106;LTTextBoxHorizontal;"Cet océan a la particularité d’être bordé par 
+de nombreux pays aux histoires et civilisations très 
+différentes, tout en concentrant la majeure partie 
+des échanges commerciaux internationaux. Du 
+point de vue économique, les routes maritimes les 
+plus importantes en densité de trafic aujourd’hui 
+restent celles qui relient la Chine au Moyen-Orient, 
+à l’Europe et aux États-Unis. […]. En termes de 
+flux commerciaux et de voies maritimes, l’océan 
+Indien est donc un espace pivot pour les échanges 
+internationaux […]. L’océan Indien abrite 25 % du 
+trafic maritime international […]. ";8-1-0-2
+42;8;3;86.937;215.271;276.459;345.271;LTTextBoxHorizontal;"70 % des hydrocarbures du Moyen-Orient 
+affluent vers l’Asie via les routes maritimes reliant 
+le détroit d’Ormuz à celui de Malacca. […] Avec 
+39 % des échanges maritimes de pétrole et 33 % 
+de ceux de gaz naturel liquéfié (GNL), le détroit 
+d’Ormuz est d’une importance capitale pour les 
+importations d’hydrocarbures, essentiellement 
+à destination des économies asiatiques (70 % du 
+pétrole, 20 % du GNL) […]. L’Extrême-Orient dé- 
+pend en très grande partie [de l’océan Indien] pour 
+son pétrole, son gaz et ses échanges conteneurisés. ";8-1-0-1
+43;8;3;133.294;168.149;276.053;208.142;LTTextBoxHorizontal;"Jean-Pierre Numa, « Océan Indien : 
+étude géopolitique et stratégique 
+des flux maritimes, risques et menaces », 
+www.diploweb.fr, 28 janvier 2018. ";8-1-0-0
+44;8;1;537.023;521.895;592.177;539.927;LTCurve;"
+      ";8-0
+45;8;2;547.12;524.165;585.768;539.165;LTTextBoxHorizontal;"Animation 
+Croquis ";8-0-0

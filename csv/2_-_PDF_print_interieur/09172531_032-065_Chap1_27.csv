@@ -1,0 +1,163 @@
+;page;depth;xmin;ymin;xmax;ymax;type;text;id
+0;27;0;0;0;653.622;852.047;LTPage;"
+    ";27
+1;27;1;-518.023;720.433;6.99;751.433;LTTextLineHorizontal;;27-11
+2;27;2;-518.023;720.433;6.99;751.433;LTTextBoxHorizontal;Mers et océans : appropriation, protection et ;27-11-0
+3;27;1;43.976;720.433;282.704;751.433;LTTextLineHorizontal;;27-10
+4;27;2;43.976;720.433;282.704;751.433;LTTextBoxHorizontal;liberté de circulation ;27-10-0
+5;27;1;33.52;42.398;218.089;60.401;LTTextBoxHorizontal;"172531_th1_ch1_17_circulation 
+310 x 225 mm – pli à 130 mm du bord gauche de la carte ";27-9
+6;27;1;553.447;47.52;564.567;57.52;LTTextLineHorizontal;;27-8
+7;27;2;553.447;47.52;564.567;57.52;LTTextBoxHorizontal;59 ;27-8-0
+8;27;1;15.0;837.047;653.622;852.047;LTFigure;"
+      ";27-7
+9;27;2;15.0;837.047;653.622;852.047;LTFigure;"
+        ";27-7-0
+10;27;3;15.0;837.047;653.622;852.047;LTFigure;;27-7-0-0
+11;27;1;295.172;344.926;660.891;651.475;LTFigure;"
+      ";27-6
+12;27;2;295.172;344.926;660.891;651.475;LTFigure;;27-6-0
+13;27;1;281.579;664.966;640.026;1299.273;LTFigure;"
+      ";27-5
+14;27;2;281.579;664.966;640.026;1299.273;LTFigure;"
+        ";27-5-0
+15;27;3;575.535;771.509;597.693;780.354;LTTextLineHorizontal;;27-5-0-5
+16;27;4;575.535;771.509;597.693;780.354;LTTextBoxHorizontal;THÈME ;27-5-0-5-0
+17;27;3;602.205;771.651;606.132;780.496;LTTextLineHorizontal;;27-5-0-4
+18;27;4;602.205;771.651;606.132;780.496;LTTextBoxHorizontal;1 ;27-5-0-4-0
+19;27;3;589.15;750.453;597.329;759.453;LTTextLineHorizontal;;27-5-0-3
+20;27;4;589.15;750.453;597.329;759.453;LTTextBoxHorizontal;SE ;27-5-0-3-0
+21;27;3;578.855;743.453;605.265;752.453;LTTextLineHorizontal;;27-5-0-2
+22;27;4;578.855;743.453;605.265;752.453;LTTextBoxHorizontal;PRÉPARER ;27-5-0-2-0
+23;27;3;578.473;667.89;603.457;676.89;LTTextLineHorizontal;;27-5-0-1
+24;27;4;578.473;667.89;603.457;676.89;LTTextBoxHorizontal;CHAPITRE ;27-5-0-1-0
+25;27;3;493.549;698.256;548.927;716.567;LTCurve;"
+          ";27-5-0-0
+26;27;4;504.356;700.817;542.852;715.817;LTTextBoxHorizontal;"Carte 
+interactive ";27-5-0-0-0
+27;27;1;-40.241;486.104;-5.333;939.184;LTFigure;"
+      ";27-4
+28;27;2;-40.241;486.104;-5.333;939.184;LTFigure;;27-4-0
+29;27;1;-329.231;543.564;-202.64;1055.31;LTFigure;"
+      ";27-3
+30;27;2;-329.231;543.564;-202.64;1055.31;LTFigure;;27-3-0
+31;27;1;-299.542;700.683;244.984;911.648;LTFigure;;27-2
+32;27;1;-313.923;71.943;564.317;709.238;LTRect;"
+      ";27-1
+33;27;2;-300.319;167.196;-155.789;177.196;LTTextLineHorizontal;;27-1-19
+34;27;3;-300.319;167.196;-155.789;177.196;LTTextBoxHorizontal;1. Appropriation et revendications ;27-1-19-0
+35;27;2;-106.622;167.363;8.468;177.363;LTTextLineHorizontal;;27-1-18
+36;27;3;-106.622;167.363;8.468;177.363;LTTextBoxHorizontal;2. Conﬂictualités maritimes ;27-1-18-0
+37;27;2;-265.059;148.966;-140.874;157.466;LTTextLineHorizontal;;27-1-17
+38;27;3;-265.059;148.966;-140.874;157.466;LTTextBoxHorizontal;États maritimes disposant d’une ZEE ;27-1-17-0
+39;27;2;-265.059;131.567;-253.082;140.067;LTTextLineHorizontal;;27-1-16
+40;27;3;-265.059;131.567;-253.082;140.067;LTTextBoxHorizontal;ZEE ;27-1-16-0
+41;27;2;-265.059;114.167;-130.878;122.667;LTTextLineHorizontal;;27-1-15
+42;27;3;-265.059;114.167;-130.878;122.667;LTTextBoxHorizontal;Zones de demande d’extension des ZEE ;27-1-15-0
+43;27;2;-265.059;96.867;-125.324;105.367;LTTextLineHorizontal;;27-1-14
+44;27;3;-265.059;96.867;-125.324;105.367;LTTextBoxHorizontal;Siège de l’organisation maritime internationale ;27-1-14-0
+45;27;2;-265.059;79.466;-116.912;87.966;LTTextLineHorizontal;;27-1-13
+46;27;3;-265.059;79.466;-116.912;87.966;LTTextBoxHorizontal;Les 5 principaux pavillons de complaisance ;27-1-13-0
+47;27;2;-103.476;147.377;-73.41;158.377;LTTextLineHorizontal;;27-1-12
+48;27;3;-103.476;147.377;-73.41;158.377;LTTextBoxHorizontal;ÉTATS- ;27-1-12-0
+49;27;2;-98.981;135.376;-77.894;146.376;LTTextLineHorizontal;;27-1-11
+50;27;3;-98.981;135.376;-77.894;146.376;LTTextBoxHorizontal;UNIS ;27-1-11-0
+51;27;2;-101.575;119.263;-75.424;127.935;LTTextLineHorizontal;;27-1-10
+52;27;3;-101.575;119.263;-75.424;127.935;LTTextBoxHorizontal;IIe ﬂotte ;27-1-10-0
+53;27;2;-67.168;152.804;-16.67;161.304;LTTextLineHorizontal;;27-1-9
+54;27;3;-67.168;152.804;-16.67;161.304;LTTextBoxHorizontal;Les États-Unis, ;27-1-9-0
+55;27;2;-67.168;143.301;-11.927;151.801;LTTextLineHorizontal;;27-1-8
+56;27;3;-67.168;143.301;-11.927;151.801;LTTextBoxHorizontal;hyper-puissance ;27-1-8-0
+57;27;2;-67.168;133.798;-0.351;142.304;LTTextLineHorizontal;;27-1-7
+58;27;3;-67.168;133.798;-0.351;142.304;LTTextBoxHorizontal;navale (Seapower) ;27-1-7-0
+59;27;2;-67.17;117.518;-11.546;126.018;LTTextLineHorizontal;;27-1-6
+60;27;3;-67.17;117.518;-11.546;126.018;LTTextBoxHorizontal;Flottes de guerre ;27-1-6-0
+61;27;2;-67.17;108.517;-18.167;117.017;LTTextLineHorizontal;;27-1-5
+62;27;3;-67.17;108.517;-18.167;117.017;LTTextBoxHorizontal;des États-Unis ;27-1-5-0
+63;27;2;-95.485;91.276;-80.682;99.276;LTTextLineHorizontal;;27-1-4
+64;27;3;-95.485;91.276;-80.682;99.276;LTTextBoxHorizontal;INDE ;27-1-4-0
+65;27;2;-67.17;93.021;-8.222;101.521;LTTextLineHorizontal;;27-1-3
+66;27;3;-67.17;93.021;-8.222;101.521;LTTextBoxHorizontal;Autres puissances ;27-1-3-0
+67;27;2;-67.17;84.02;-40.14;92.52;LTTextLineHorizontal;;27-1-2
+68;27;3;-67.17;84.02;-40.14;92.52;LTTextBoxHorizontal;navales ;27-1-2-0
+69;27;2;15.0;71.943;564.317;709.238;LTRect;"
+        ";27-1-1
+70;27;3;238.66;656.284;279.308;676.076;LTTextBoxHorizontal;"OCÉAN 
+PACIFIQUE ";27-1-1-11
+71;27;3;84.447;154.345;148.026;162.845;LTTextLineHorizontal;;27-1-1-10
+72;27;4;84.447;154.345;148.026;162.845;LTTextBoxHorizontal;Zones de piraterie ;27-1-1-10-0
+73;27;3;84.447;130.375;195.184;148.378;LTTextBoxHorizontal;"Opération Atalante (lutte contre 
+la piraterie dans l’océan Indien) ";27-1-1-9
+74;27;3;84.447;104.765;166.879;122.768;LTTextBoxHorizontal;"Zones de tension liées 
+aux frontières maritimes ";27-1-1-8
+75;27;3;287.274;133.634;491.946;142.134;LTTextLineHorizontal;;27-1-1-7
+76;27;4;287.274;133.634;491.946;142.134;LTTextBoxHorizontal;Concentration de déchets (gyres, « continents » de plastique) ;27-1-1-7-0
+77;27;3;287.274;116.133;456.637;124.633;LTTextLineHorizontal;;27-1-1-6
+78;27;4;287.274;116.133;456.637;124.633;LTTextBoxHorizontal;Catastrophes écologiques récentes (marées noires) ;27-1-1-6-0
+79;27;3;287.274;99.779;452.37;108.279;LTTextLineHorizontal;;27-1-1-5
+80;27;4;287.274;99.779;452.37;108.279;LTTextBoxHorizontal;Îles menacées par l’élévation du niveau de la mer ;27-1-1-5-0
+81;27;3;287.274;79.625;428.4;88.125;LTTextLineHorizontal;;27-1-1-4
+82;27;4;287.274;79.625;428.4;88.125;LTTextBoxHorizontal;Principales aires marines protégées (AMP) ;27-1-1-4-0
+83;27;3;186.359;229.145;417.026;379.812;LTCurve;"
+          ";27-1-1-3
+84;27;4;289.202;332.437;315.719;341.109;LTTextLineHorizontal;;27-1-1-3-1
+85;27;5;289.202;332.437;315.719;341.109;LTTextBoxHorizontal;Ve ﬂotte ;27-1-1-3-1-0
+86;27;4;346.988;352.916;376.724;372.708;LTTextBoxHorizontal;"OCÉAN 
+INDIEN ";27-1-1-3-0
+87;27;3;157.526;394.312;544.526;655.812;LTCurve;"
+          ";27-1-1-2
+88;27;4;308.393;609.104;339.194;617.776;LTTextLineHorizontal;;27-1-1-2-4
+89;27;5;308.393;609.104;339.194;617.776;LTTextBoxHorizontal;VIIe ﬂotte ;27-1-1-2-4-0
+90;27;4;276.878;600.555;299.102;608.555;LTTextLineHorizontal;;27-1-1-2-3
+91;27;5;276.878;600.555;299.102;608.555;LTTextBoxHorizontal;JAPON ;27-1-1-2-3-0
+92;27;4;183.43;544.057;206.99;552.057;LTTextLineHorizontal;;27-1-1-2-2
+93;27;5;183.43;544.057;206.99;552.057;LTTextBoxHorizontal;RUSSIE ;27-1-1-2-2-0
+94;27;4;354.172;439.562;392.548;448.562;LTTextLineHorizontal;;27-1-1-2-1
+95;27;5;354.172;439.562;392.548;448.562;LTTextBoxHorizontal;INDONÉSIE ;27-1-1-2-1-0
+96;27;4;185.693;441.343;206.332;470.447;LTCurve;;27-1-1-2-0
+97;27;3;252.532;144.893;532.72;274.958;LTFigure;"
+          ";27-1-1-1
+98;27;4;252.532;144.893;532.72;274.958;LTFigure;;27-1-1-1-0
+99;27;3;250.365;161.536;529.426;308.548;LTFigure;;27-1-1-0
+100;27;2;-307.894;180.324;559.966;699.757;LTCurve;"
+        ";27-1-0
+101;27;3;-231.723;203.804;503.647;695.882;LTCurve;"
+          ";27-1-0-0
+102;27;4;-163.198;604.28;-133.462;612.28;LTTextLineHorizontal;;27-1-0-0-5
+103;27;5;-163.198;604.28;-133.462;612.28;LTTextBoxHorizontal;OCÉAN ;27-1-0-0-5-0
+104;27;4;-168.654;592.488;-128.006;600.488;LTTextLineHorizontal;;27-1-0-0-4
+105;27;5;-168.654;592.488;-128.006;600.488;LTTextBoxHorizontal;PACIFIQUE ;27-1-0-0-4-0
+106;27;4;-185.539;489.104;-157.243;497.776;LTTextLineHorizontal;;27-1-0-0-3
+107;27;5;-185.539;489.104;-157.243;497.776;LTTextBoxHorizontal;IIIe ﬂotte ;27-1-0-0-3-0
+108;27;4;-20.216;267.792;8.443;276.464;LTTextLineHorizontal;;27-1-0-0-2
+109;27;5;-20.216;267.792;8.443;276.464;LTTextBoxHorizontal;IVe ﬂotte ;27-1-0-0-2-0
+110;27;4;-19.896;258.207;37.436;486.291;LTFigure;"
+            ";27-1-0-0-1
+111;27;5;-19.896;258.207;37.436;486.291;LTFigure;;27-1-0-0-1-0
+112;27;4;-160.045;292.518;132.893;685.125;LTCurve;"
+            ";27-1-0-0-0
+113;27;5;-88.71;532.079;-55.527;541.079;LTTextLineHorizontal;;27-1-0-0-0-5
+114;27;6;-88.71;532.079;-55.527;541.079;LTTextBoxHorizontal;MEXIQUE ;27-1-0-0-0-5-0
+115;27;5;-124.494;479.448;-95.75;487.448;LTTextLineHorizontal;;27-1-0-0-0-4
+116;27;6;-124.494;479.448;-95.75;487.448;LTTextBoxHorizontal;PANAMA ;27-1-0-0-0-4-0
+117;27;5;-34.102;501.784;-1.806;509.784;LTTextLineHorizontal;;27-1-0-0-0-3
+118;27;6;-34.102;501.784;-1.806;509.784;LTTextBoxHorizontal;BAHAMAS ;27-1-0-0-0-3-0
+119;27;5;-16.242;491.088;9.91;499.76;LTTextLineHorizontal;;27-1-0-0-0-2
+120;27;6;-16.242;491.088;9.91;499.76;LTTextBoxHorizontal;IIe ﬂotte ;27-1-0-0-0-2-0
+121;27;5;-27.742;416.232;21.874;436.024;LTTextBoxHorizontal;"OCÉAN 
+ATLANTIQUE ";27-1-0-0-0-1
+122;27;5;-59.642;520.107;20.952;640.732;LTCurve;"
+              ";27-1-0-0-0-0
+123;27;6;-36.01;586.728;-2.603;597.728;LTTextLineHorizontal;;27-1-0-0-0-0-4
+124;27;7;-36.01;586.728;-2.603;597.728;LTTextBoxHorizontal;ÉTATS- ;27-1-0-0-0-0-4-0
+125;27;6;-31.027;574.727;-7.597;585.727;LTTextLineHorizontal;;27-1-0-0-0-0-3
+126;27;7;-31.027;574.727;-7.597;585.727;LTTextBoxHorizontal;UNIS ;27-1-0-0-0-0-3-0
+127;27;6;-14.688;547.997;18.809;588.044;LTCurve;"
+                ";27-1-0-0-0-0-2
+128;27;7;-14.688;547.997;18.809;588.044;LTCurve;"
+                  ";27-1-0-0-0-0-2-0
+129;27;8;-14.688;547.997;18.809;588.044;LTCurve;;27-1-0-0-0-0-2-0-0
+130;27;6;-25.85;546.109;11.608;577.939;LTCurve;;27-1-0-0-0-0-1
+131;27;6;-21.287;538.43;13.387;573.512;LTCurve;;27-1-0-0-0-0-0
+132;27;1;333.584;48.442;537.64;56.586;LTTextLineHorizontal;;27-0
+133;27;2;333.584;48.442;537.64;56.586;LTTextBoxHorizontal;CHAPITRE 1 Mers et océans : au cœur de la mondialisation ;27-0-0
